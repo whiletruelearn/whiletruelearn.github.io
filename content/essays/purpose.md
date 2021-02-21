@@ -5,7 +5,7 @@ draft: true
 ---
 
 Okay. So this is going to be a difficult topic to write about. Difficult, because I need to do some soul searching 
-to write about purpose, this thing that propels me to wake up , 
+to write about purpose, this thing that propels me to wake up, 
 do something and navigate this journey called **life**  . To put simply, what is the purpose that i seek in my life other than the act of mere survival? And i want to do all this in a way where i am not  doing  virtue signalling or projecting an altruistic version of myself, but instead it becomes an attempt at trying to make an accurate and honest assesment of my thoughts on this topic so that it becomes a marker of this time that i can later revisit.
 
 I will be a complete jerk if i am not cognizant of the fact that I am somewhat previleged to be in a position where i can even ponder about these things.
