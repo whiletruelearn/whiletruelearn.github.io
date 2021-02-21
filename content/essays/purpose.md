@@ -55,7 +55,7 @@ universe itself is an act of experiment, a simulation that is run by a supremely
 God (the supreme being) here is the programmer/ scientist who is running this simulation. The Issac Asimov story is special since it takes a spin on this idea and goes on to say
 that it is we humans who set things in motion in first place. 
 
-{{< figure src="../img/bigbang.png" height=600 width=75 alt="Big Bang" position="center" style="border-radius: 8px;" caption=" Fig 2 Big bang in the imagination of an artist." captionPosition="center" captionStyle="color: red;" >}}
+{{< figure src="../img/bigbang.png" height=400 width=200 alt="Big Bang" position="center" style="border-radius: 8px;" caption=" Fig 2 Big bang in the imagination of an artist." captionPosition="center" captionStyle="color: red;" >}}
 
 There are many folks who believe that there is a chance  that we are living in a simulation. Some of the famous supporters include [Nick Bostrom](https://www.nickbostrom.com/) , [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) etc. Even though it sounds outlandish, I have an inkling that there is something credible to the theory.
 This year I tried to build a small simulator program that mimicks a certain phenomenon, even if the simulation didn't mimick the exact process I was 
@@ -90,12 +90,12 @@ There are only two ways to live your life. One is as though nothing is a miracle
 Some argue that the fluke argument also is definite proof that things exist by design and hence the proof for existence of God. I don't subscribe to the the **creation by design** argument, but i am willing to concede that the fluke argument also can be seen as another outcome of the **simulation hypothesis** argument where these miracles are  just bunch  of states that the simulation designer had programmed to happen. Anyways this realization of incredible luck that we see in our own origin and the origin of our planet does affect how we look at purpose in life. Personally for me it is this realization that life is this very rare gift, while it seems to be a ride with lots of ups and downs along the way, the very fact that we are alive right now and inhabiting this planet with another 7 billion people is something that one needs to be greatful for. 
 
 
-{{< figure src="../img/palebluedot.png" height=600 width=75 alt="Pale blue dot" position="center" style="border-radius: 8px;" caption=" Fig 3 Pale blue dot, Photograph taken by spaceprobe Voyager 1  of earth in 1990" captionPosition="center" captionStyle="color: red;" >}}
+{{< figure src="../img/palebluedot.png" height=400 width=200 alt="Pale blue dot" position="center" style="border-radius: 8px;" caption=" Fig 3 Pale blue dot, Photograph taken by spaceprobe Voyager 1  of earth in 1990" captionPosition="center" captionStyle="color: red;" >}}
 
 With this incredible luck, there is also sadly this feeling of isolation when we look at the cosmos. While many people who haven't got the memo yet, think that the universe runs around them, in reality the cosmos doesn't care about our existence, our actions are  insignificant in the larger scheme of things going around in universe. This transition from everything revolves around Earth and us special humans (Geo Centric model)  to  we are this insignificant species in a tiny pale blue dot that has no realistic chance of making a dent on the universe has been painful for humanity.
 
 
-{{< figure src="../img/calvin.jpg" height=300 width=75 alt="Pale blue dot" position="center" style="border-radius: 8px;" caption=" Fig 4 Calvin and Hobbes comic strip" captionPosition="center" captionStyle="color: red;" >}}
+{{< figure src="../img/calvin.jpg" height=400 width=200 alt="Pale blue dot" position="center" style="border-radius: 8px;" caption=" Fig 4 Calvin and Hobbes comic strip" captionPosition="center" captionStyle="color: red;" >}}
 
 
 Rather than focussing on the insignificance of our actions, i think we can use this knowledge to take better care of our planet and it's inhabitants. Once in a while I  listen to this monologue called [Pale blue dot](https://www.youtube.com/watch?v=sb4WhNvLRFw) which touches on this subject  , every time i listen to it i feel a sense of calmness and it also kind of give a renewed purpose and outlook towards life. 
