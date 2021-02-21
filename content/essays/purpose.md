@@ -95,7 +95,7 @@ Some argue that the fluke argument also is definite proof that things exist by d
 With this incredible luck, there is also sadly this feeling of isolation when we look at the cosmos. While many people who haven't got the memo yet, think that the universe runs around them, in reality the cosmos doesn't care about our existence, our actions are  insignificant in the larger scheme of things going around in universe. This transition from everything revolves around Earth and us special humans (Geo Centric model)  to  we are this insignificant species in a tiny pale blue dot that has no realistic chance of making a dent on the universe has been painful for humanity.
 
 
-{{< figure src="../img/calvin.jpg" height=400 width=200 alt="Pale blue dot" position="center" style="border-radius: 8px;" caption=" Fig 4 Calvin and Hobbes comic strip" captionPosition="center" captionStyle="color: red;" >}}
+{{< figure src="../img/calvin.jpg" height=200 width=200 alt="Pale blue dot" position="center" style="border-radius: 8px;" caption=" Fig 4 Calvin and Hobbes comic strip" captionPosition="center" captionStyle="color: red;" >}}
 
 
 Rather than focussing on the insignificance of our actions, i think we can use this knowledge to take better care of our planet and it's inhabitants. Once in a while I  listen to this monologue called [Pale blue dot](https://www.youtube.com/watch?v=sb4WhNvLRFw) which touches on this subject  , every time i listen to it i feel a sense of calmness and it also kind of give a renewed purpose and outlook towards life. 
