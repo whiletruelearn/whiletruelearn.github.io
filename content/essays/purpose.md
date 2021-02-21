@@ -13,7 +13,7 @@ For a significant proportion of the world's population, surviving day to day its
 to speak about the problem of having purpose, a no-nonsense colleague of mine typically categorize my thoughts on this subject
 as "First world problems" . In a way he is true, in the wide scheme of things my ramblings are about something at the very top of [Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) . 
 
-{{< figure src="../img/maslow.png" height=100 width=100 alt="Hello Friend" position="center" style="border-radius: 8px;" caption=" Fig 1 Maslow's Hierarchy of Needs (Wikipedia)" captionPosition="center" captionStyle="color: red;" >}}
+{{< figure src="../img/maslow.png" height=200 width=200 alt="Hello Friend" position="center" style="border-radius: 8px;" caption=" Fig 1 Maslow's Hierarchy of Needs (Wikipedia)" captionPosition="center" captionStyle="color: red;" >}}
 
 For a large chunk of human history, our needs were mostly physiological in nature. Food, Shelter , sex etc were the only things that
 early humans predominantly cared about. There were few folks who had extra time and did art such as the folks who did [Lascaux Cave paintings](https://en.wikipedia.org/wiki/Lascaux) , but even for them the larger theme of life should have revolved around these items in the lower part of the pyramid. With each generation, the wisdom and progress
