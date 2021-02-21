@@ -1,7 +1,7 @@
 ---
 title: "Purpose"
 date: 2020-11-07T11:21:53+05:30
-draft: true
+draft: false
 ---
 
 Okay. So this is going to be a difficult topic to write about. Difficult, because I need to do some soul searching 
