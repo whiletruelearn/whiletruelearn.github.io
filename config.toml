@@ -1,0 +1,15 @@
+baseurl = "https://example.com/"
+title = "whiletruelearn"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = false
+
+
+  [[params.navlinks]]
+  name = "essays"
+  url = "essays/"
+
+
