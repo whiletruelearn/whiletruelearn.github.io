@@ -33,12 +33,10 @@ a river whose direction is controlled by the stream that god creates. "What is e
 that strikes a chord with most people. This made sense to me at a certain point of life, i think it is the simple explanation of the concept that makes it popular 
 with people. 
 
-Religions also tend to add another layer of abstraction over this idea , while sequence of events that will happen in life remains deterministic in nature , there is a prize
+Religions(CULT + TIME) also tend to add another layer of abstraction over this idea , while sequence of events that will happen in life remains deterministic in nature , there is a prize
 at the end of all of this which is much larger than the life itself. It could be moksha - an escape from birth/death cycle or it could be the bliss of reaching heaven. There is often a moral code of conduct , a set of do's and don'ts that are laid out by religions which determines the eligibility for the final prize. So a  life lived following the do's and don'ts as stipulated by our belief systems could be equated to a purpose driven life also.
 
-In [Devs](https://en.wikipedia.org/wiki/Devs) , a TV series that i saw recently this idea of determinism is explored in an interesting way.  The series revolves around this tech company that builds a [quantum computer](https://en.wikipedia.org/wiki/Quantum_computing), this special machine can do a lot of number crunching in a scale that is unprecedented and  they are able to  model cause and effect with remarkable precision, this leads to an important discovery revealing which would be a spoiler but it's safe to call out as a very 
-good surprise for the viewers. I think watching this show kind of made me think deeply about **the theory of Thalavara** and i can't make my mind up fully whether it is BS or there
-is something there which can't be explained by the slicing and dicing of rational thought.
+In [Devs](https://en.wikipedia.org/wiki/Devs) , a TV series that i saw recently this idea of determinism is explored in an interesting way.  The series revolves around this tech company that builds a [quantum computer](https://en.wikipedia.org/wiki/Quantum_computing), this special machine can do a lot of number crunching in a scale that is unprecedented and  they are able to  model cause and effect with remarkable precision, this leads to an important discovery , a true WTF moment in the show where protagonist learns that life is deterministic and concept of free will is an illusion . I think watching this show kind of made me think deeply about **the theory of Thalavara** and i can't make my mind up fully whether it is BS or there is something there which can't be explained by the slicing and dicing of rational thought.
 
 # Simulation Hypothesis
 
@@ -75,7 +73,7 @@ kind of a bummer if we are indeed living in a simulation even though as a scifi 
 
 # We are a fluke
 
-While simulation hypothesis is something that we can debate over whether it's just science fiction or not, one thing that is undebatable is this fact that our existence is an especially surprising piece of luck. This is obvious especially from biology when the science of reproduction is discussed, of the millions of sperms that are in contention for fertilization of egg, only one makes it and if let's hypothetically say another sperm had fused with the egg instead then our genetic makeup , our features and even gender could have been different. In otherwords the odds of us being us was very low, and it is an incredible luck that it is us who had the opportunity to arrive in this world. ~~The funny thing about this realization is that the knowledge of these facts were there right from high school, but i never really thought deeply about it~~. 
+While simulation hypothesis is something that we can debate over whether it's just science fiction or not, one thing that is undebatable is this fact that our existence is an especially surprising piece of luck. This is obvious especially from biology when the science of reproduction is discussed, of the millions of sperms that are in contention for fertilization of egg, only one makes it and if let's hypothetically say another sperm had fused with the egg instead then our genetic makeup , our features and even gender could have been different. In otherwords the odds of us being us was very low, and it is an incredible luck that it is us who had the opportunity to arrive in this world. 
 
 
 
@@ -109,24 +107,11 @@ It has been said that astronomy is a humbling and character-building experience.
 
 ```
 
-So taking care of our planet so that we don't screw it up for future generations and being kind to the one another should be a collective purpose that for all of humanity. I guess this is an obvious thing to understand but i often feel frustrated on how very few get it.
-
-# Us the DNA carriers 
-
-This is another perspective that I got from a good friend of mine that has sort of made sense to me at a point of time. Building upon the fact that our existence is a biological fluke accident, we can still try to find meaning it by thinking us as the carriers
-of DNA, the code that  makes us who we are. One can take a perspective that the purpose of life is to ensure the survival
-of our species by ensuring that our genes are transferred through children. 
-
-Discussion about DNA also reminds me of painful episodes in human history such as the [Eugenics movement](https://www.history.com/topics/germany/eugenics) that eventually lead to really bad outcomes such as holocaust, the worrying thing about DNA for me is that
-it will become another tool for a bunch of extremist to polarize the world based on some non existent purity. Instead of taking a narrow view point, we should look at it in a collective way and think of diversity that comes from our genes as a good thing, for our society and our species in the long run. 
-
 In our natural world, we observe few patterns that keeps on repeating, none of them is as significant as the pattern of growth and decay. We see it on the plant that has just bloomed and
 given a beautiful flower. The beauty of this flower exist only for a fleeting moment in it's growth phase and it eventually succumbs into the decay phase. This is a pattern that keeps repeating over and over wherever we look. Wisdom from the ages has been that there is no escape from the eventual doom as this growth and decay is a fundamental tenet of our universe. 
 Everyone who is reading this will bid bye to this world eventually, it is more a question of time than if. Despite the gloomy end there is a silverlining here, and that silverlining is
 visible when we understand that maybe life, it's not about the individual, it's about US as a collective, the story of our species and it's survival over trying circumstances, the fact that we are playing a small part in keeping the [greatest show running on Earth](https://www.youtube.com/watch?v=5WeYj55zdf4). 
 
-With the modern amneties that we all enjoy, we sometimes forget how fragile our world really is. There are external cosmic events which could wipe out our existence in seconds. But let's not worry about them since  the odds of any of such event  happening is quite low  and if they do happen there is very little we can do , so it's better we don't worry too much about them at this point of time. More than the external threats , the internal threats caused by us humans are more worrying. The risk of doom by nuclear winter, prolonged damanged to our ecosystem through climate change etc are more iminent risks that we need to work collectively to find a solution for. Finding  solutions to these problems are challenging because they need the collective effort from all our fellow beings without looking at their personal/regional interests and that is next to impossible for a society which glorifies individual achievement more than collective achievement. On the knife edge is the survival of our species and the rich bio diversity that we are part of, it should be a common purpose for all of us despite our various ideological / religious / social differences that when we leave this world, we are leaving it better than how we found it. 
-
-
+With the modern amneties that we all enjoy, we sometimes forget how fragile our world really is. There are external cosmic events which could wipe out our existence in seconds. But let's not worry about them since  the odds of any of such event  happening is quite low  and if they do happen there is very little we can do , so it's better we don't worry too much about them at this point of time. More than the external threats , the internal threats caused by us humans are more worrying. The risk of doom by nuclear winter, prolonged damanged to our ecosystem through climate change etc are more iminent risks that we need to work collectively to find a solution for. Finding  solutions to these problems are challenging because they need the collective effort from all our fellow beings without looking at their personal/regional interests and that is next to impossible for a society which glorifies individual achievement more than collective achievement. On the knife edge is the survival of our species and the rich bio diversity that we are part of, it should be a common purpose for all of us despite our various ideological / religious / social differences that when we leave this world, we are leaving it better than how we found it. So taking care of our planet so that we don't screw it up for future generations and being kind to the one another should be a collective purpose that for all of humanity. I guess this is an obvious thing to understand but i often feel frustrated on how very few get it.
 
 
