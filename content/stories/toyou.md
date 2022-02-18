@@ -18,7 +18,7 @@ She turned her head sideways so that she could see my face, My cold and dull res
 "What is your opinion on Life after death ?"
  
 I turned my head sideways, she looked gorgeous in moonlight. Tiny light from the farthest of heavens came down that one moment  
-to make her face glow with a mystic beauty or soIthought,Iput my  hand under her head and said in my sweetest tone
+to make her face glow with a mystic beauty or so I thought,I put my  hand under her head and said in my sweetest tone
  
 "You know the thing about Life after Death is ... 
  
@@ -38,7 +38,7 @@ That is real.
  
 So stop this stupid talk of yours or else we might miss it "
  
-I knewIhad said something really bad to her, butIwas too excited about the comet thatIfelt even Neha became a distraction.
+I knew I had said something really bad to her, but I was too excited about the comet that I felt even Neha became a distraction.
  
 She pushed my hands and got up quickly . She was starting to leave the terrace but not before saying this
  
@@ -50,17 +50,17 @@ I am off to bed. You can stay here  along with your comet.
  
 Don't bother coming down."
  
-Angry women always likes to have the final say in scheme of things. Knowing this ,Ikept quiet.
+Angry women always likes to have the final say in scheme of things. Knowing this ,I kept quiet.
  
-She would have looked at me once again , violently stroked her legs at the firm ground twice or thrice and moved her head both ways to show her dislike at the turn of events.Ialso imagined her going down the stairs calling me idiot , rascal and other names from her list of parliamentary swear words. This made me chuckle, thinking how muchIknow about her.
+She would have looked at me once again , violently stroked her legs at the firm ground twice or thrice and moved her head both ways to show her dislike at the turn of events. I also imagined her going down the stairs calling me idiot  and other names from her list of parliamentary swear words. This made me laugh, thinking how much I know about her.
  
 I cleared my mind soon and got back to observing the sky. It could be any minute from now.
  
 It was 8th March of 1986 . 
  
-After 5 minutes and 47 seconds ,Isaw Halley's comet passing through the skies in full glory. My eyes not even blinking following the comet and its beautiful tail with a pounding heart that can't contain its excitement anymore.
+After 5 minutes and 47 seconds ,I saw Halley's comet passing through the skies in full glory. My eyes not even blinking following the comet and its beautiful tail with a pounding heart that can't contain its excitement anymore.
  
-Moments before the comet disappeared from my horizon,Iremembered the purpose of my night out
+Moments before the comet disappeared from my horizon, I remembered the purpose of my night out
  
 I made my wish!
  
@@ -71,43 +71,43 @@ I laughed for a while like a mad man and then tears rolled down my cheeks one by
 ------------------------------------------------------------------------------------------------------------------------
  
  
-On April 1st of that year the most unexpected thing happened. My inlaws decided to visit our home after the cold war that existed ever since my marriage with Neha. It was not a marriage that they approved of and it took almost 2 years for them to finally cool off and approve me as their son in law. Neha was extremely happy that day andIcould see it in her face. ObviouslyIwas happy too, it was always a regret that she carried with her that she somehow wronged her parents by marrying me. She loved me ofcourse, enough to blindly say 'yes' to my marriage request without thinking of the chain of consequences that would follow. But she was  a homely child and needed that parental recognition for her to be truly happy. And now she is.
+On April 1st of that year the most unexpected thing happened. My inlaws decided to visit our home after the cold war that existed ever since my marriage with Neha. It was not a marriage that they approved of and it took almost 2 years for them to finally cool off and approve me as their son in law. Neha was extremely happy that day and I could see it in her face. Obviously I was happy too, it was always a regret that she carried with her that she somehow wronged her parents by marrying me. She loved me ofcourse, enough to blindly say 'yes' to my marriage request without thinking of the chain of consequences that would follow. But she was  a homely child and needed that parental recognition for her to be truly happy. And now she is.
  
  
-The April Fools day had more surprises in store for me .Iwas positive though since the first surprise was truly a pleasant one with the visit of my inlaws. Among the other routines,Ikissed on Neha's forehead as usual and left for work . It was a beautiful summer day and just before reaching the street whereIworked,Itook a turn and in about 10 minutes time reached the super speciality hospital.
+The April Fools day had more surprises in store for me .I was positive though since the first surprise was truly a pleasant one with the visit of my inlaws. Among the other routines, I kissed on Neha's forehead as usual and left for work . It was a beautiful summer day and just before reaching the street where I worked,I took a turn and in about 10 minutes time reached the super speciality hospital.
  
-"So has the lab results finally come Doc ? . This one month waiting period has put a lot of stress on me. You can't imagine the kind of lifeIhad gone through ever since my last diagnosis. It is okay ifIknow something is wrong with me but this anticipation , It really hurts doc .Iknow that you needed time to get the results and stuff.Iknow all that , butIam just saying ..things like this , one can't wait for ever .Iam sorry,Iam just too emotional and don't know what to say. "
+"So has the lab results finally come Doc ? . This long waiting period has put a lot of stress on me. You can't imagine the kind of life I had gone through ever since my last diagnosis. It is okay if I know something is wrong with me but this anticipation , It really hurts doc .I know that you needed time to get the results and stuff. I know all that , but I am just saying ..things like this , one can't wait for ever .I am sorry,I am just too emotional and don't know what to say. "
  
 "Rahul.."
  
-"It is just that everything has finally turned allright. My wife's parents , they turned up today and all our issues due to marriage is now over. They have finally accepted me the 'orphan' as part of their family. Can you believe that ? It is a big thing for me and for my wife too. You have to see her face , she is really happy andIwant her to be happy .Iwant to share all that happiness with her butIcan't do this way.Ijust can't .Iam sorry doctor ,Iam blabbering . Just tell me whatever it is."
+"It is just that everything has finally turned allright. My wife's parents , they turned up today and all our issues due to marriage is now over. They have finally accepted me the 'orphan' as part of their family. Can you believe that ? It is a big thing for me and for my wife too. You have to see her face , she is really happy and I want her to be happy .I want to share all that happiness with her but I can't do this way.I just can't .I am sorry doctor ,I am blabbering . Just tell me whatever it is."
  
  
 "Rahul , the results confirm our preliminary diagnosis. You have.... "
  
-"CANCER.." ,Ifilled the blanks which doctor was finding a hard time to fill. 
+"CANCER.." ,I filled the blanks which doctor was finding a hard time to fill. 
  
-"Sorry Rahul.Iwas hoping for a better result."
+"Sorry Rahul.I was hoping for a better result."
  
-"It is okay Doc. The funny thing isIam turning 28 in another 3 days. So much  future ahead of meIhad thought once , so much of youth left in me right ? ; All those dreamsIhad , they mean nothing anymore . How could such a thing happen to me Doc ?ImeanInever drank , never smoked , excercised regularly and took good care of my health. How could god , if such a person ever exist do something like this to me ? especially now when everything else have turned alright ." 
+"It is okay Doc. The funny thing is Iam turning 28 in another 3 days. So much  future ahead of me I had thought once , so much of youth left in me right ? ; All those dreams I had , they mean nothing anymore . How could such a thing happen to me Doc ? I mean I never drank , never smoked , excercised regularly and took good care of my health. How could god , if such a person ever exist do something like this to me ? especially now when everything else have turned alright ." 
  
-I was about to cry like howIused to do whenIfelt lonely in my orphanage. But somehowImanaged to stay strong.
+I was about to cry like how I used to do when I felt lonely in my orphanage. But somehow I managed to stay strong.
  
-"You Know Life has always been so difficult for me right from the beginning , yet somehowIhad managed to put on a fight against all the odds andIfinally thoughtIhad everything in my grasp. EverythingIever wanted and then the world comes shattering down on me only to make me appear as  a fool, a fool for having hoped for a good life .Imust be the biggest fool on this April Fools day , a fool who thought that he could be happy "
+"You Know Life has always been so difficult for me right from the beginning , yet somehow I had managed to put on a fight against all the odds and I finally thought I had everything in my grasp. Everything I ever wanted and then the world comes shattering down on me only to make me appear as  a fool, a fool for having hoped for a good life .I must be the biggest fool on this April Fools day , a fool who thought that he could be happy "
  
 "Rahul . You must not lose hope ..." 
  
-"One last question Doc .Idon't want to waste your time .Iam already a lost cause . How much more time doIhave ?"
+"One last question Doc .I don't want to waste your time .I am already a lost cause . How much more time do I have ?"
  
 "It depends on various factors"
  
-"A number doctor.Ineed a number . approximately "
+"A number doctor.I need a number . approximately "
  
-" 7 to 8 Months .. It also ..."
+"Hard to say Rahul. For some it is 7 to 8 Months .. It also ..."
  
 " Thanks Doctor"
  
-I rushed out from the hospital as fast asIcould without giving a proper chance for doctor to complete.Iwent to the parking and found comfort in the confined space of my car whereIcried like never before. It was the most honest moment of my life.Irealized at that moment what means the most to me.Idrove my car to home to see my wife andIhugged her that day like it was my last.
+I rushed out from the hospital as fast as I could without giving a proper chance for doctor to complete. I went to the parking lot and found comfort in the confined space of my car where I cried like never before. It was the most honest moment of my life.I realized at that moment what means the most to me. I drove my car to home to see my wife and I hugged her that day like it was my last.
  
  
  
@@ -119,17 +119,17 @@ My Husband died on December 24th of 1987.
  
 It was Christmas eve . 
  
-Everyone was celebrating on that day. Doctor's , nurses , office staff - They all greeted each other with their 'Happy Christams' and 'Merry Christmas' wishes whileIsuccumbed into a level of pain which knew no limits.
+Everyone was celebrating on that day. Doctor's , nurses , office staff - They all greeted each other with their 'Happy Christams' and 'Merry Christmas' wishes while I succumbed into a level of pain which knew no limits.
  
-I felt truly alone in that hospital on that chilly night. No words of consolation brought any relief to me. What everyone found surprising whichIlearned later was howInever cried. Not a single drop of tear came from my eye . What they didn't realize was that only living people cried ,Iwas already dead by the time Rahul left me . Or soIthought.
+I felt truly alone in that hospital on that chilly night. No words of consolation brought any relief to me. What everyone found surprising which I learned later was how I never cried. Not a single drop of tear came from my eye . What they didn't realize was that only living people cried ,I was already dead by the time Rahul left me . Or so I thought.
  
  
 I met Rahul the most unusal way.
  
-It was during a chess competition. It was the 80's andIhad got myself into a FIDE state level event. With some good luck going for me,Iwas able to reach the semi final whereIwas supposed to play against Rahul. Rahul was a higher rated player than me andIhonestly didn't thinkIhad a chance to move into the finals.
+It was during a chess competition. It was the 80's and I had got myself into a FIDE state level event. With some good luck going for me,I was able to reach the semi final where I was supposed to play against Rahul. Rahul was a higher rated player than me and I honestly didn't think I had a chance to move into the finals.
  
-Rahul won the first match quite comprehensively. It was a best of three event and my confidence had hit rock bottom after the first match. But to everyone's surpriseIwon the 2nd and 3rd matches even after making few big errors . Rahul's rating dipped down to an all time low andImoved into the finals.Iwasn't good enough to win the finals, but my  photo appeared in some newspapers and my dad and mom were really proud of my achievement.Ididn't feel deserved to get all this attention though,Ikept on thinking as to why that guy after playing such a brilliant first game lost his complete touch for the remaining two.
-It remained a mystery for sometime untilIgot that letter.
+Rahul won the first match quite comprehensively. It was a best of three event and my confidence had hit rock bottom after the first match. But to everyone's surprise I won the 2nd and 3rd matches even after making few big errors . Rahul's rating dipped down to an all time low and I moved into the finals. I wasn't good enough to win the finals, but my  photo appeared in some newspapers and my dad and mom were really proud of my achievement.I didn't feel deserved to get all this attention though,I kept on thinking as to why that guy after playing such a brilliant first game lost his complete touch for the remaining two.
+It remained a mystery for sometime until I got that letter.
  
  
 A letter came to me almost a week after from Rahul.
@@ -140,19 +140,19 @@ The letter had just three words
  
 " Be My Queen ."
  
-I was angry at first for someone having the courage to send  such a letter . ThenIsmiled , a kind of smile whose meaning could be ony understood by another woman. 
+I was angry at first for someone having the courage to send  such a letter . Then I smiled , a kind of smile whose meaning could be ony understood by another woman. 
  
-I met Rahul on a coffee shop andIasked him what the meaning of all this was and why he played so poorly  from the 2nd game.
+I met Rahul on a coffee shop and I asked him what the meaning of all this was and why he played so poorly  from the 2nd game.
  
-"I have seen you many times before Neha.Ilive in the orpahanage next to your block .Iknow so much about you already. For instance Iknow at what time you catch your bus to college ,Iknow when you return back from college .Iknow that you like color blue alot since almost all your dress have a shade of blue .Iknow that you like golgappa since you have it everyday from the street vendor .Ihave even had golgappas with you few times but you have never noticed.Iknow you love your dad by the way you talk to him while jogging and how you put your arms around his shoulder while returning,Iknow he loves you alot  from the way he follows you till college without you seeing butIhave seen it.Iknow that you really don't like going to temple but your mom forces you to and you would do it because it makes her happy. You see Neha,Ihave started going to temple just so thatIcould see you on those fridays.Ihave loved you and your family so much even after staying so distant from all of you. "
+"I have seen you many times before Neha. I used to live in the orpahanage next to your block .I know so much about you already. For instance I know at what time you catch your bus to college ,I know when you return back from college .I know that you like color blue alot since almost all your dress have a shade of blue .I know that you like golgappa since you have it everyday from the street vendor .I have even had golgappas with you few times but you have never noticed. I know you love your dad by the way you talk to him while jogging and how you put your arms around his shoulder while returning . I know that you really don't like going to temple but your mom forces you to and you would do it because it makes her happy. You see Neha, I have started going to temple just so that I could see you on those fridays. I have loved you and your family so much even after staying so distant from all of you. Please don't think of me as this weirdo for stalking you even if maybe I am."
  
  
  
 "
-So imagine what would go through the mind of Rahul , the so called 'orphan chess prodigee' .  Chess was the only thing that made an orphan like me special Neha . It means a great deal to me , but whenImet you as my opponent - it was something whichInever expected ,Iwon the first match to prove my strength .Ilost the 2 remaining matches to show thatIam willing to go to any level of sacrifice for your friendship. Suddenly chess was not the most important thing in my life ,Iwanted to see you happy ,Iwanted to see you win which is whyImade those errors. "
+So imagine what would go through the mind of Rahul , the so called 'orphan chess prodigee' .  Chess was the only thing that made an orphan like me special Neha . It means a great deal to me , but when I met you as my opponent - it was something which I never expected ,I won the first match to prove my strength .I lost the 2 remaining matches to show that I am willing to go to any level of sacrifice for your friendship. Suddenly chess was not the most important thing in my life ,I wanted to see you happy ,I wanted to see you win which is why I made those errors. "
  
  
-WhenIlooked into Rahul's eyes that dayIsaw a sincere , earnest and innocent man whom you instantly know you could trust for life. We became good friends from that moment . We had many things in common and yet many things that were different. We agreed on many things fought on many other . At some pointIfelt that there is something more than a friendship and to my parent's huge disappointmentImarried Rahul and became his 'queen'.
+When I looked into Rahul's eyes that day I saw a sincere , earnest and innocent man whom you instantly know you could trust for life. We became good friends from that moment . We had many things in common and yet many things that were different. We agreed on many things fought on many other . At some point I felt that there is something more than a friendship and to my parent's huge disappointment I married Rahul and became his 'queen'.
  
 ---------------------------------------------------------------------------------------------------------------------------
  
