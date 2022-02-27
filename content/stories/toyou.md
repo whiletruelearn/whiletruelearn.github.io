@@ -156,24 +156,22 @@ When I looked into Rahul's eyes that day I saw a sincere , earnest and innocent 
  
 ---------------------------------------------------------------------------------------------------------------------------
  
-It was New Years day  of 1988 . It was the most tensed day of my life .Iwas driving back home after visiting a family friend whenIreceived call from my wife. In a moment of panic she blurted out that our only daughter had tried to hang herself to death using a rope . She immediately took help from one of our male servants and took Neha to the nearest hospital. WhenIreached hospital my wife was sitting shell shocked andIsensed some really bad news.
+It was New Years day  of 1988 . It was the most tensed day of my life .I was driving back home after visiting a family friend when I received call from my wife. In a moment of panic she blurted out that our only daughter had tried to hang herself to death using a rope . She immediately took help from one of our male servants and took Neha to the nearest hospital. When I reached hospital my wife was sitting shell shocked and I sensed some really bad news.
  
-To our greatest relief Neha survived that day, It was also on that day thatIheard from the doctor that Neha was pregnant .Ididn't know whether this was   good or bad news. But whenItold about this to my wife , she smiled and told me that it is definitely good news. She believed that our daughter would need some strong reason to live and this child might give her that reason, to come back and live a normal life , to be a mother and to be our Neha again.
+To our greatest relief Neha survived that day, It was also on that day that I heard from the doctor that Neha was pregnant .I didn't know whether this was   good or bad news. But when I told about this to my wife , she smiled and told me that it is definitely good news. She believed that our daughter would need some strong reason to live and this child might give her that reason, to come back and live a normal life , to be a mother and to be our Neha again.
  
  
 I was honestly surprised at how accurate my wife was. Neha soon started taking good care of herself and we were starting to get back our old Neha bit by bit. 
  
-On September 29th of 1989 Neha gave birth to a baby boy. After a long period of sadness and grief , this baby became the reason for our small happiness. Me and my wife cuddled Neha who was holding that baby , it was in that momentIrealized the true value of a family. We had gone through lot of pain and sadness , our life was filled with nothing but sorrow and darkness and here there was - the small child in Neha's hand , a hope for a new future .
+On September 29th of 1989 Neha gave birth to a baby boy. After a long period of sadness and grief , this baby became the reason for our small happiness. Me and my wife cuddled Neha who was holding that baby , it was in that moment I realized the true value of a family. We had gone through lot of pain and sadness , our life was filled with nothing but sorrow and darkness and here there was - the small child in Neha's hand , a hope for a new future .
  
 It was me who suggested to name him Pradyot , since the child really was  a ray of light illuminating our lives from darkness. 
  
-It was the beginning of whatIwould call reasonable happy days .Icould still see in Neha a lot of sadness ,Iknew very well that she wouldn't fully be able to forget Rahul or she would entirely become happy . ButIwas sure of one thing , as long as her son existed , my daughter wouldn't think of doing anything foolish again. We never bugged Neha about another marriage because we knew how deeply she loved Rahul and we knew that any extra pressure from our side might lead to a disastrous result.
+It was the beginning of what I would call reasonable happy days .I could still see in Neha a lot of sadness ,I knew very well that she wouldn't fully be able to forget Rahul or she would entirely become happy . But I was sure of one thing , as long as her son existed , my daughter wouldn't think of doing anything foolish again. We never bugged Neha about another marriage because we knew how deeply she loved Rahul and we knew that any extra pressure from our side might lead to a disastrous result.
  
  
-I wouldn't say that those were perfectly happy days. We were always worried that something would happen to Pradyot, the fear started when we heard about how diseases get transferred genetically. We lived in constant worry that something bad may happen to our grandson like what happened to his father. This thought scared us a lot through this period. 
- 
-It must be also said that we never took anything for granted. We really felt like evey new day with him was a gift from
-the heavens. We laughed a little extra for his acts, we applauded a little more . We were determined not to make him feel like he is missing his father , Itried to be the best grandfather any kid can possibly have and all three of us tried our best to fill the vaccum which Rahul had left. 
+It must be also said that we never took anything for granted. We really felt like evey new day with Pradyot was a gift from
+the heavens. We laughed a little extra for his acts, we applauded a little more . We were determined not to make him feel like he is missing his father , I tried to be the best grandfather any kid can possibly have and all three of us tried our best to fill the vaccum which Rahul had left. 
  
  
 Years went by quickly and we all felt that bad days are past us. But like always we are just actors playing out the roles of a script return by someone. Who are we to know what twists and turns lies ahead of us. ?
@@ -181,42 +179,42 @@ Years went by quickly and we all felt that bad days are past us. But like always
 ----------------------------------------------------------------------------------------------------------------------------
  
  
-I am an agnostic . It meansIdon't fully agree nor disagree to the question of whether there is someone called god. Through out my life there has been various experiences which made me embrace and question faith.IthinkIwas a very religious person until my 15th birthday,Iwould owe it mostly to my grandmother and grandfather. In a short span of 15 years ,Ithink they managed to make me visit almost all the temples one can visit in south India .Isoon understood that it was more fear than anything else that made my family this relegious. They feared that something will happen to me just like my father and they believed that only gods had the power to alter future.
+I am an agnostic . It means I don't fully agree nor disagree to the question of whether there is someone called god. Through out my life there has been various experiences which made me embrace and question faith. I think I was a very religious person until my 15th birthday,I would owe it mostly to my grandmother and grandfather. In a short span of 15 years ,I think they managed to make me visit almost all the temples one can visit in south India .I soon understood that it was more fear than anything else that made my family this relegious. They feared that something will happen to me just like my father and they believed that only gods had the power to alter future.
  
-LikeImentioned before , the fist incident that made me question faith happened on my 15th birthday. My beloved grandmother who loved me so much died on that very day. She was trying to cross the road when a lorry came from nowhere and hit her. She had gone to a temple to do a special pooja for me and was returning back home. 
+Like I mentioned before , the fist incident that made me question faith happened on my 15th birthday. My beloved grandmother who loved me so much died on that very day. She was trying to cross the road when a lorry came from nowhere and hit her. She had gone to a temple to do a special pooja for me and was returning back home. 
  
-I cursed all the gods whomIworshiped that day and sweared never to bow down my head anymore to them. They took my father away beforeIwas born and they now took my grandmother away from me when she had gone to temple only to pray for my good health and that too on my birthday.Inever celebrated my birthday afterwards . The death of grandma worsened things for grandpa . 
+I cursed all the gods whom I worshiped that day and sweared never to bow down my head anymore to them. They took my father away before I was born and they now took my grandmother away from me when she had gone to temple only to pray for my good health and that too on my birthday.I never celebrated my birthday afterwards . The death of grandma worsened things for grandpa . 
 He was never the same guy again, the tragedy was more than what he could bear. But surprisingly my mother endured through this , she was the person who held our family together through the tough times. 
  
 We lost grandpa 7 years later. His health had declined through these 7 years and death was the eventual course of action that 
-all of us knew was bound to happen. The day in which he died will be remembered by many Indians . It was the 2nd of April 2011 -the day Indian cricket team won the world cup.Iused to feel like tragedy striked our family in a cold and ruthless manner, on days when everyone else gets to celebrate - we get to cry. At 1 am in a hospital room ,Irelized that my family had shrunked to just 2 members - me and my mother.Icried on the lap of my mother . Not a drop of tear came from her eyes through all of it.
+all of us knew was bound to happen. The day in which he died will be remembered by many Indians . It was the 2nd of April 2011 -the day Indian cricket team won the world cup.I used to feel like tragedy striked our family in a cold and ruthless manner, on days when everyone else gets to celebrate - we get to cry. At 1 am in a hospital room ,I relized that my family had shrunked to just 2 members - me and my mother.I cried on the lap of my mother . Not a drop of tear came from her eyes through all of it.
  
  
  
  
 ------------------------------------------------------------------------------------------------------------------------------
  
-It was April 2nd 2029 whenIfinally got the test results . The first personIinformed the news was his mother . 
-She was the most resillient womenIhave ever seen, a woman of incredible courage and strong will power .Itook a day off from offie and went to meet her. She was running an orphanage in memory of her husband , it was her life's work . After Pradyot married me , she moved to the orphanage and has been busy on its working. 
+It was April 2nd 2029 whenI finally got the test results . The first person I informed the news was his mother . 
+She was the most resillient women I have ever seen, a woman of incredible courage and strong will power .I took a day off from office and went to meet her. She was running an orphanage in memory of her husband , it was her life's work . After Pradyot married me , she moved to the orphanage and has been busy on its working. 
  
-She used to visit us on saturdays , spend a day with our two children and then leave on Sunday. WhenItold her about the test results she broke down for the first time. This repetition of tragedy over the course of time was simply unbearable for her. She held my hands tightly and said with moist eyes.
+She used to visit us on saturdays , spend a day with our two children and then leave on Sunday. When I told her about the test results she broke down for the first time. This repetition of tragedy over the course of time was simply unbearable for her. She held my hands tightly and said with moist eyes.
  
  
-"It is not 1986 .Iwas a dumb girl who didn't know what to do to save my husband . 
+"It is not 1986 .I was a dumb lady who didn't know what to do to save my husband . 
  
 You are a doctor Sandhya ,.... this is 2029 ..... You can save him 
  
 You can save your husband. 
  
-My grand children .....needs their father .....Ineed my son .
+My grand children .....needs their father .....I need my son .
  
 You should do everything..... in your power to save him"
  
  
-My marriage with Pradyot was strictly an arranged one. We didn't even knew each other properly .Iwas studying in HMS when the proposal came in through a family friend. He was also in Boston running his start up company at that time. It was after 1 year into our marriage thatIrealized that our marriage was not merely a coincident. It was a brilliant plan envisioned by Pradyot's mother to save her son if something goes wrong.
+My marriage with Pradyot was strictly an arranged one. We didn't even knew each other properly .I was studying in HMS when the proposal came in through a family friend. He was also in Boston running his start up  at that time. It was after 1 year into our marriage that I realized that our marriage was not merely a coincident. It was a  plan envisioned by Pradyot's mother to save her son if something goes wrong.
  
  
-My research at HMS was on 'Possible cures for Cancer' ,Iwas working with the leading experts on the topic at possibly the best  lab in the entire world dedicated to cancer research. It still remains a mystery to me how she managed to find me and how she executed the entire marriage thing. Perhaps the love of a mother for her child is the strongest force on earth , one that can even set in motion events that triggers miracles.
+My research at HMS was on 'Possible cures for Cancer' ,I was working with the leading experts on the topic at possibly the best  lab in the entire world dedicated to cancer research. It still remains a mystery to me how she managed to find me and how she executed the entire marriage thing. Perhaps the love of a mother for her child is the strongest force on earth , one that can even set in motion events that triggers miracles.
  
  
  
@@ -240,20 +238,20 @@ Year                       Awarded to                       Achievement
  
 -----------------------------------------------------------------------------------------------------------------------------
  
-So GuessIam a lucky guy to be back again in this story line.Isurvived my scare with cancer whenIwas 39 . It was a miracle that brought me back to life , a miracle that made me a believer again of a force whomIbelieve has a greater plan for all of us.They say that my wife's work was instrumental in HMS finally coming up with the cure that saved millions of people's life.Iwonder  sometimes  whether all the bad things that happened in our family was for leading upto this one invention . ThenIrealize that maybeIam getting a bit ahead of myself by thinking such things. Who really knows anything for certainity ?
+So Guess Iam a lucky guy to be back again in this story line. I survived my scare with cancer when I was 39 . It was a miracle that brought me back to life , a miracle that made me a believer again of a force whom I believe has a greater plan for all of us.They say that my wife's work was instrumental in HMS finally coming up with the cure that saved millions of people's life.I wonder  sometimes  whether all the bad things that happened in our family was for leading upto this one invention . Then I realize that maybe Iam getting a bit ahead of myself by thinking such things. Who really knows anything for certainity ?
  
  
  
-There is one other thing which happened somewhat later (circa 2045) , a small event which many might think is trivial yet very relevant to the storyline of my family. It was a letter which my father had written to my mother dated 8th March 1986.Ifound it in a dusty little envelope while sorting things out in the basement.Idon't know if my mother had seen this before .Ihope she had seen this , since there is no wayIcould show this to her now. 
+There is one other thing which happened somewhat later (circa 2045) , a small event which many might think is trivial yet very relevant to the storyline of my family. It was a letter which my father had written to my mother dated 8th March 1986.I found it in a dusty little envelope while sorting things out in the basement.I don't know if my mother had seen this before .Ihope she had seen this , since there is no way I could show this to her now. 
  
 "To You Neha,
  
  
-WhenIcame downstairs you were fast asleep.Iknow that you are angry at me for whatIsaid tonight.Iam really sorry ifIhurt you somehow.Iknow thatIhave been acting somewhat weirdly for about a month now.Ipromise you that things won't be the same going forward.
+When I came downstairs you were fast asleep. I know that you are angry at me for what I said tonight.Iam really sorry if I hurt you somehow. I know that I have been acting somewhat weirdly for about a month now. I promise you that things won't be the same going forward.
  
-Do you know the old myth about comets ? They say that whatever wish we make it an honest heart while seeing a comet comes true. WhenIsaw that Halley's comet today ,Iwas thinking all about us.Iwished with all my heart that we are together forever and no force ever seperates us. That was my wish dear . 
+Do you know the old myth about comets ? They say that whatever wish we make it an honest heart while seeing a comet comes true. When I saw that Halley's comet today ,I was thinking all about us.I wished with all my heart that we are together forever and no force ever seperates us. That was my wish dear . 
  
-AndIhope that this wish will come true.
+And I hope that this wish will come true.
  
 Ever Yours,
  

@@ -3,18 +3,33 @@
 These are some of the open source projects that I have worked on.
 
 
+
 # [WhatTheLang](https://github.com/indix/whatthelang)
 
 A python library for language detection.
+
+Collaborators : [Manoj](https://www.linkedin.com/in/manojlds/)
 
 # [Vangogh](https://github.com/whiletruelearn/vangogh)
 
 A prisma like web-app that performs Fast Neural style transfer.
 
-Collaborators : [Bala](https://github.com/rbs392) , [Anurag](https://github.com/anuragmishracse)
+Collaborators : [Bala](https://www.linkedin.com/in/bala-subramaniyan-6a618a21/) , [Anurag](https://www.linkedin.com/in/anuragmishracse/)
 
 # [Morpheus](https://github.com/whiletruelearn/morpheus)
 
 A toolkit for exploring fundamental algorithms in Linear Algebra.
 
+# [Quidditch](https://www.ericsson.com/en/blog/2020/7/how-to-make-anomaly-detection-more-accessible)
 
+An innersource framework for doing Anomaly detection.
+
+Collaborators : [Raghavan](https://www.linkedin.com/in/raghavan-a-k-3a102713/), [Venkat](https://www.linkedin.com/in/venkatachalam-n-b8a17a18/), [Adi](https://www.linkedin.com/in/adithya-krishnan-0a7b66a8/), [Raaghul](https://www.linkedin.com/in/rraaghul/), [Gautham](https://www.linkedin.com/in/gauthamkrishna-g/), [Sharmili](https://www.linkedin.com/in/sharmili-srinivasan-40925a41/), [Milan](https://www.linkedin.com/in/milan-b-27585054/), [Ebe](https://www.linkedin.com/in/ebenezer-isaac/)
+
+
+# SIMS
+
+An innersource simulator for mobility pattern written from scratch in Python using real world topology. 
+Inspired by OMNET++, with support for scaling upto 10K UE's. 
+
+Collaborators : [Venki](https://www.linkedin.com/in/venkateshumaashankar/), [Adi](https://www.linkedin.com/in/adithya-krishnan-0a7b66a8/)
