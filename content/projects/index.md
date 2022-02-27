@@ -1,6 +1,6 @@
 # Projects
 
-These are some of the open source projects that I have worked on.
+These are some of the open/inner source projects that I have worked on.
 
 
 
