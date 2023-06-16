@@ -40,3 +40,15 @@ Collaborators : [Venki](https://www.linkedin.com/in/venkateshumaashankar/), [Adi
 A toy distributed hash table using consistent hashing, data replication, node addition and failover. 
 
 Collaborator : [Raaghul](https://www.linkedin.com/in/rraaghul/)
+
+# [Video Plagiarism detection](https://docs.google.com/presentation/d/1k00Vy8HaVFWKHRvK2-e7CtjrPoJz4ov9icIZmmMNEjE/edit?usp=sharing)
+
+Deep Analysis of video content to detect possible plagiarism. 
+
+# [Streaming Log Analytics](https://drive.google.com/file/d/1Im8YKDBNdmDqSc39t_LbowrampvgaucJ/view)
+
+Analytics on streaming log data. Proof of concept.
+
+
+
+
