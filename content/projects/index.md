@@ -49,6 +49,15 @@ Deep Analysis of video content to detect possible plagiarism.
 
 Analytics on streaming log data. Proof of concept.
 
+# [Pdf-chat](https://github.com/whiletruelearn/pdf-chat)
+
+Simple implementation of RAG for Q&A on pdf document.
+
+# [Dulu](https://github.com/whiletruelearn/dulu)
+
+A small python library for doing OCR. Built on top of the florence2 vision model.
+
+
 
 
 
