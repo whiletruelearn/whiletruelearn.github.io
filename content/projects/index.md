@@ -2,7 +2,21 @@
 
 These are some of the open/inner source projects that I have worked on.
 
+# [TermiChess](https://github.com/whiletruelearn/termichess)
 
+Play chess on your terminal.
+
+# [Dulu](https://github.com/whiletruelearn/dulu)
+
+A small python library for doing OCR. Built on top of the florence2 vision model.
+
+# [Pdf-chat](https://github.com/whiletruelearn/pdf-chat)
+
+Simple implementation of RAG for Q&A on pdf document.
+
+# [Toy DHT](https://www.youtube.com/watch?v=BsOIvL7_oXk)
+
+A toy distributed hash table using consistent hashing, data replication, node addition and failover. 
 
 # [WhatTheLang](https://github.com/indix/whatthelang)
 
@@ -35,9 +49,6 @@ Inspired by OMNET++, with support for scaling upto 10K UE's.
 Collaborators : [Venki](https://www.linkedin.com/in/venkateshumaashankar/), [Adi](https://www.linkedin.com/in/adithya-krishnan-0a7b66a8/)
 
 
-# [Toy DHT](https://www.youtube.com/watch?v=BsOIvL7_oXk)
-
-A toy distributed hash table using consistent hashing, data replication, node addition and failover. 
 
 Collaborator : [Raaghul](https://www.linkedin.com/in/rraaghul/)
 
@@ -48,16 +59,4 @@ Deep Analysis of video content to detect possible plagiarism.
 # [Streaming Log Analytics](https://drive.google.com/file/d/1Im8YKDBNdmDqSc39t_LbowrampvgaucJ/view)
 
 Analytics on streaming log data. Proof of concept.
-
-# [Pdf-chat](https://github.com/whiletruelearn/pdf-chat)
-
-Simple implementation of RAG for Q&A on pdf document.
-
-# [Dulu](https://github.com/whiletruelearn/dulu)
-
-A small python library for doing OCR. Built on top of the florence2 vision model.
-
-
-
-
 
