@@ -1,6 +1,10 @@
 # Projects
 
-These are some of the open/inner source projects that I have worked on.
+These are some of the open/inner source projects that I have built/worked on.
+
+# [DeepTick](https://apps.apple.com/in/app/deeptick/id6742068060?platform=iphone)
+
+Tools for deepwork productivity.
 
 # [TermiChess](https://github.com/whiletruelearn/termichess)
 
@@ -50,8 +54,6 @@ Collaborators : [Venki](https://www.linkedin.com/in/venkateshumaashankar/), [Adi
 
 
 
-Collaborator : [Raaghul](https://www.linkedin.com/in/rraaghul/)
-
 # [Video Plagiarism detection](https://docs.google.com/presentation/d/1k00Vy8HaVFWKHRvK2-e7CtjrPoJz4ov9icIZmmMNEjE/edit?usp=sharing)
 
 Deep Analysis of video content to detect possible plagiarism. 
@@ -59,4 +61,6 @@ Deep Analysis of video content to detect possible plagiarism.
 # [Streaming Log Analytics](https://drive.google.com/file/d/1Im8YKDBNdmDqSc39t_LbowrampvgaucJ/view)
 
 Analytics on streaming log data. Proof of concept.
+
+Collaborator : [Raaghul](https://www.linkedin.com/in/rraaghul/)
 
