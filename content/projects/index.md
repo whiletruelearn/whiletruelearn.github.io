@@ -2,6 +2,10 @@
 
 These are some of the open/inner source projects that I have built/worked on.
 
+# [HN Client app](https://apps.apple.com/us/app/feedly-for-hackernews/id6744145932)
+
+A client app for reading HN on the go.
+
 # [DeepTick](https://apps.apple.com/in/app/deeptick/id6742068060?platform=iphone)
 
 Tools for deepwork productivity.
