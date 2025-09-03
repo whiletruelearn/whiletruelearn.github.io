@@ -2,6 +2,18 @@
 
 These are some of the open/inner source projects that I have built/worked on.
 
+# [Chess Engine Analyzer](https://apps.apple.com/us/app/stockfish-chess-analysis/id6744956284?platform=iphone)
+
+Object detection and segmentation of 2D chessboard + Stockfish Chess Engine analysis. 
+
+# [Offline Transcribe](https://apps.apple.com/us/app/transcribe-ai-note-taker/id6746317410) 
+
+OpenAI whisper models converted to coreml to run on iOS device for offline transcription.
+
+# [Privy](https://whiletruelearn.gumroad.com/l/privy)
+
+MacOS app similar to superwhisper and macwhisper for offline real time transcription and formatting.
+
 # [Libris.fm](https://apps.apple.com/us/app/libris-fm-free-audiobooks/id6744654703)
 
 Libris.fm - An iOS app to listen to public domain audio books.
