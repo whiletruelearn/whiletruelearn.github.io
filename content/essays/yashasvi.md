@@ -1,11 +1,11 @@
 ---
-title: "Yashasvi"
+title: "Shanku"
 date: 2025-10-24T11:21:53+05:30
 draft: true
 ---
 
 
-Dear Yashasvi,
+Dear Shanku,
 
 I don't know when you would end up reading this. Maybe you would never find this, maybe you would find this one day. They say the 
 internet will be a place where written stuff gets retained for ages. This is my endeavour in small parts in the hope that this letter
@@ -29,13 +29,22 @@ personal and beautiful to us. When i came out and told your grandparents, they w
 survives which shows the reaction of them when they get to see you for the first time. Your grandparents love you a great deal, they are 
 simple nice people with a lot of love for you.
 
-As I am writing this, you are still a baby who only cares right now about drinking milk and getting some sound sleep. When you are irritated
+As I am writing this, you are still a baby who only cares right now about drinking milk and getting some sound sleep. When you are irritated, 
 or hungry, you would alert us with crying. Simple baby stuff , we are first time parents and sometimes we might mess up few things, most times
 we are over worried with best intention of raising you to the best of our capabilities. At this point it's safe to say you are the #1 priority
 to half a dozen humans while you have no idea about any of it. 
 
 
-Now let me come to the core points of this letter
+Now let me come to the core points of this letter, I want to tell a few things which I hope you will remember. This letter might sound like an advice and let me be honest - I hate giving unsolicited advice. But at the same time , I believe in the power of written words acting as a guiding light. When i am writing something, it is usually because something has been boiling inside of me that needs to get out from my system; I hope you will find this generally useful Shanku. TL;DR version of this letter is that I love you a lot and wish you the very best in whatever journeys you take in life.
+ 
+
+# Be a Person of Science 
+
+To be a person of science, you don't need to have fancy degrees - It just needs an orientation of mind. I have seen a lot of people 
+who are very educated but have an unscientific temper and vice versa, 
+
+
+
 
 
 
