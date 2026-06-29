@@ -1,0 +1,26 @@
+<!-- JSON-LD structured data for richer search results. Emitted on the homepage. -->
+{{- if .IsHome }}
+{{- $personID := printf "%s#person" .Site.BaseURL }}
+{{- $person := dict
+    "@type" "Person"
+    "@id" $personID
+    "name" "Krishna Sangeeth KS"
+    "url" .Site.BaseURL
+    "image" ("apple-touch-icon.png" | absURL)
+    "jobTitle" "Solopreneur & ML Engineer"
+    "sameAs" (slice "https://x.com/whiletruelearn" "https://serendipitylabs.in")
+}}
+{{- with .Site.Params.description }}{{ $person = merge $person (dict "description" .) }}{{ end }}
+{{- $website := dict
+    "@type" "WebSite"
+    "@id" (printf "%s#website" .Site.BaseURL)
+    "url" .Site.BaseURL
+    "name" .Site.Title
+    "publisher" (dict "@id" $personID)
+}}
+{{- with .Site.Params.description }}{{ $website = merge $website (dict "description" .) }}{{ end }}
+{{- $schema := dict "@context" "https://schema.org" "@graph" (slice $person $website) }}
+<script type="application/ld+json">
+{{ $schema | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end }}

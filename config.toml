@@ -6,6 +6,10 @@ languageCode = "en-us"
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = false
+  description = "Krishna Sangeeth — Solopreneur | Indie Hacker."
+
+  [params.social]
+    twitter = "whiletruelearn"
 
 
   [[params.navlinks]]

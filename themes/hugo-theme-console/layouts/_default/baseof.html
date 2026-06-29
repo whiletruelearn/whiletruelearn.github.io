@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ .Site.Title }}{{ $url := urls.Parse .Page.Permalink }}{{ $url.Path }}</title>
+    <title>{{ if .IsHome }}{{ .Site.Title }} — Krishna Sangeeth{{ else }}{{ .Site.Title }}{{ $url := urls.Parse .Page.Permalink }}{{ $url.Path }}{{ end }}</title>
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 
     <script type="text/javascript">
@@ -33,6 +33,7 @@
     {{ end }}
     {{- partial "opengraph.html" . -}}
     {{- partial "twitter_cards.html" . -}}
+    {{- partial "structured_data.html" . -}}
     {{ template "_internal/google_analytics.html" . }}
 
     {{- partial "header.html" . -}}

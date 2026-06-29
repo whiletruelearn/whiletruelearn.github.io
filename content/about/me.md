@@ -5,7 +5,7 @@ draft: true
 ---
 
 
-{{< figure src="../img/profile_pic.jpeg " height=500 width=75 alt="Hello Friend" position="center" style="border-radius: 8px;" caption="Maslow's Hierarchy of Needs" captionPosition="right" captionStyle="color: red;" >}}
+{{< figure src="../img/profile_pic.jpeg" height=500 width=75 alt="Krishna Sangeeth" position="center" style="border-radius: 8px;" >}}
 
 Hello World,
 
@@ -16,7 +16,7 @@ I really enjoy building software and tinkering with tech. I was specifically int
 
 I am reasonably happy when I am learning something new and often irritated when I am not learning something new. I am curious about most things under the sun, from history to economics to philosophy. I am agnostic and like to believe I am a man of science, I try and fail often to embody the virtues of Stoicism. 
 
-The best way to connect with me is via [Twitter](https://twitter.com/whiletruelearn), where I typically post my rants about life, the universe, and everything else or via [Mail](kskrishnasangeeth@gmail.com).
+The best way to connect with me is via [Twitter](https://twitter.com/whiletruelearn), where I typically post my rants about life, the universe, and everything else or via [Mail](mailto:kskrishnasangeeth@gmail.com).
 
 On a personal front, I am happily married with Swathi, and we have a son, "Shanku," who keeps us on our toes.
 
