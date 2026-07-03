@@ -2,6 +2,38 @@
 
 These are some of the open/inner source projects that I have built/worked on.
 
+# [CodeSurf](https://codesurf.app)
+
+AI-powered GitHub PR review and repository audits. Flags bugs, security risks, and bad patterns inline before merge.
+
+# [StructML](https://structml.com)
+
+An unstructured to structured data pipeline.
+
+# [Keam App](https://keam.osign.in/)
+
+Daily focused KEAM exam practice for Physics, Chemistry, and Maths, with progress tracking and personalized challenges.
+
+# [RapidCart](https://rapidcart.app)
+
+Inventory and store management.
+
+# [Aruvi](https://aruvi.dev)
+
+Issue tracker and team wiki with AI teammates.
+
+# [Chess Clock Plus](https://play.google.com/store/apps/details?hl=en_GB&id=com.chess.clock.plus)
+
+A sleek, modern chess timer app for chess players, tournaments, and casual games.
+
+# [Knighty](https://apps.apple.com/us/app/knighty-chess/id6745241794)
+
+A gamified offline chess puzzles app with skill trees and progressive challenges, from basic forks and pins to complex checkmates.
+
+# [Sticksy Notepad](https://apps.apple.com/us/app/sticksy-notepad/id6759390020)
+
+An all-in-one visual workspace/notepad app for jotting down thoughts, lists, and audio journals.
+
 # [Chess Engine Analyzer](https://apps.apple.com/us/app/stockfish-chess-analysis/id6744956284?platform=iphone)
 
 Object detection and segmentation of 2D chessboard + Stockfish Chess Engine analysis. 
