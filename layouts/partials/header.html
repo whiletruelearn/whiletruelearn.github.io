@@ -1,0 +1,14 @@
+<!-- Keep - override to add code to <header /> tag -->
+<script>
+  (function () {
+    try {
+      var stored = localStorage.getItem("theme");
+      var theme = stored
+        ? stored
+        : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      document.documentElement.setAttribute("data-theme", theme);
+    } catch (e) {
+      /* localStorage may be unavailable (privacy mode etc), default to light */
+    }
+  })();
+</script>
