@@ -73,7 +73,7 @@
 body {
     font-family: var(--font-stack);
     font-size: var(--global-font-size);
-    background-color: #fff;
+    background-color: #fafaf7;
     margin-bottom: 75px;
 }
 
@@ -273,3 +273,100 @@ strong {
         padding-top: 5px;;
     }
 }
+
+/*
+ * Inline code fix.
+ * The base theme's ".terminal code" rule (in terminal-0.7.1.min.css) resets
+ * inline <code> back to the body font/color, which makes backtick-wrapped
+ * text in post content render as plain text. This restores a distinct,
+ * monospace "code chip" look for inline code, and drops the literal
+ * backtick characters the base theme injects via ::before/::after since we
+ * now have a visible background instead.
+ */
+code {
+    font-family: var(--mono-font-stack);
+    background-color: #f2f2f2;
+    color: #c7254e;
+    padding: 0.15em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+code::before,
+code::after {
+    content: "";
+}
+
+pre code {
+    background-color: transparent;
+    color: inherit;
+    padding: 0;
+    border-radius: 0;
+    font-size: 1em;
+}
+
+/*
+ * Dark mode.
+ * data-theme is set on <html> by an inline anti-FOUC script in
+ * layouts/partials/header.html (runs before first paint) and toggled by
+ * the button added in layouts/_default/baseof.html. These overrides remap
+ * the same CSS variables the base theme (terminal-0.7.1.min.css) already
+ * uses, plus a few hard-coded colors this file sets on body/paragraphs/etc.
+ */
+[data-theme="dark"] {
+    --background-color: #121212;
+    --font-color: #e4e4e4;
+    --invert-font-color: #121212;
+    --secondary-color: #8a8a8a;
+    --code-bg-color: #1e1e1e;
+    --global-font-color: #e4e4e4;
+}
+
+[data-theme="dark"] body {
+    background-color: var(--background-color);
+    color: var(--font-color);
+}
+
+[data-theme="dark"] a {
+    color: #6fd6a6;
+}
+
+[data-theme="dark"] .btn-ghost {
+    color: #c7c7c7;
+    border-color: #888;
+}
+
+[data-theme="dark"] code {
+    background-color: #2a2a2a;
+    color: #ff8fb3;
+}
+
+[data-theme="dark"] pre code {
+    background-color: transparent;
+    color: inherit;
+}
+
+[data-theme="dark"] .footer {
+    color: var(--font-color);
+}
+
+/* Theme toggle button */
+.theme-toggle {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+    font-size: 1.1em;
+    color: var(--font-color);
+    vertical-align: middle;
+}
+
+.theme-toggle:hover {
+    color: var(--primary-color);
+}
+
+.theme-toggle-icon {
+    display: inline-block;
+}
+
