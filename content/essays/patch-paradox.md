@@ -10,7 +10,6 @@ Here's the setup. Building software has never been this cheap. You can describe 
 
 But the same forces that make building cheap also make attacking cheap. An AI agent can just as easily be pointed at a piece of software to probe it, poke every input field, hit every API endpoint, and look for the one place where something breaks. It doesn't get bored, it doesn't need coffee breaks, and it can do this at a scale no human red team ever could.
 
-You might have recently heard of the story of `huggingface` being attacked by  `openai` models during an unconstrained capability test and the team using `glm5.2` for forensnic analysis and to contain the intrusion. Also we have today ideas like `loop engineering` , `code review agents` which makes most of what I am discussing not a very far fetched idea. Even though most state of the art model providers say that they have checks in place to prevent their platform being used for an actual cyber attack, it's easy to see that specialised models could be built for this purpose by finetuning open weight models.  
 
 So now we have two agents pulling in opposite directions on the same system leading to some interesting consequences.
 
@@ -46,7 +45,7 @@ There's another wrinkle that makes this worse, and it's easy to miss if you only
 
 This means `A` isn't just searching today's surface for today's known weaknesses. It's effectively searching today's surface for tomorrow's weaknesses too, weaknesses that don't have a name yet. Every piece of `S` that exists right now, even the parts that look completely clean under every scan available today, is a candidate for being reclassified as dangerous the moment new knowledge about attacks catches up to it. So the size of the system isn't just a bet on current risk, it's a standing bet on all future discoveries of risk, for as long as that code stays in production.
 
-# A Simple Ratio That Might Matter More Than We Think
+# A Simple Ratio To Think about.
 
 Here's a way to make this concrete. Every patch, on average, removes one known vulnerability. But it also has some chance of quietly introducing a new, unknown one, just by virtue of adding more surface area.
 
@@ -58,7 +57,7 @@ You can boil this down to a single ratio:
 
 Below 1, you're winning. Equal to 1, you're standing still while looking busy. Above 1, you're actually making things worse, and the scary part is that from the outside, in terms of commits merged and tickets closed, it looks exactly like progress.
 
-I suspect this ratio, or something like it, deserves to be one of the core metrics teams track once AI agents are writing most of the code. Not because it's easy to measure, it isn't, but because it's the thing that actually determines whether the system is heading toward safety or away from it.
+The problem with this ratio as you can guess is it's almost impossible to measure this correctly.
 
 # Why "Lines Shipped" Is the Wrong Scoreboard
 
@@ -71,6 +70,8 @@ So here's a thought experiment. Two coding agents are given the same problem. Th
 By the old scorecard, the first agent wins easily. But if you're measuring by the ratio above, the second agent probably made the better call. It delivered the same value to the user without meaningfully expanding what an attacker could go after.
 
 This is why I think the real goal isn't maximizing code produced. It's maximizing useful behavior while keeping the surface, `S`, as small as you can get away with.
+
+So when companies say that they are more productive than ever, are they measuring in terms of LoC, pull requests , tickets closed in an issue tracker. How useful are these metrics are going to be in the long term?
 
 # Deletion Deserves Equal Billing With Creation
 
@@ -97,6 +98,8 @@ Here's where it gets genuinely uncomfortable. Both `C` and `A` are getting bette
 As `C` gets faster, `S` grows faster. As `A` gets faster, it finds vulnerabilities in that growing `S` faster too. Put those together and you get a straightforward arms race. `C` ships more features and fixes. `A` gets a bigger surface to search. `C` responds with even more code to plug the new holes. `A` gets handed an even bigger surface than before.
 
 Both sides keep getting more capable, but the software itself keeps getting harder for the humans nominally in charge of it to actually understand.
+
+You might have recently heard of the story of `huggingface` being attacked by  `openai` models during an unconstrained capability test and the team using `glm5.2` for forensnic analysis and to contain the intrusion. Also we have today ideas like `loop engineering` , `code review agents` which makes most of what I am discussing not a very far fetched idea. Even though most state of the art model providers say that they have checks in place to prevent their platform being used for an actual cyber attack, it's easy to see that specialised models could be built for this purpose by finetuning open weight models.  
 
 # The Number Nobody's Tracking: Code vs Human Understanding
 
