@@ -5,10 +5,11 @@
       var stored = localStorage.getItem("theme");
       var theme = stored
         ? stored
-        : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+        : (window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
       document.documentElement.setAttribute("data-theme", theme);
     } catch (e) {
-      /* localStorage may be unavailable (privacy mode etc), default to light */
+      /* localStorage may be unavailable (privacy mode etc), default to dark */
+      document.documentElement.setAttribute("data-theme", "dark");
     }
   })();
 </script>

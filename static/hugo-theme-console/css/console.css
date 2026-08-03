@@ -327,6 +327,20 @@ pre code {
     color: var(--font-color);
 }
 
+[data-theme="dark"] p,
+[data-theme="dark"] li {
+    color: #b0b0b0;
+}
+
+[data-theme="dark"] h1,
+[data-theme="dark"] h2,
+[data-theme="dark"] h3,
+[data-theme="dark"] h4,
+[data-theme="dark"] h5,
+[data-theme="dark"] h6 {
+    color: #f0f0f0;
+}
+
 [data-theme="dark"] a {
     color: #6fd6a6;
 }
@@ -370,3 +384,31 @@ pre code {
     display: inline-block;
 }
 
+
+/*
+ * Text selection.
+ * The base theme (terminal-0.7.1.min.css) highlights selection with a flat
+ * --primary-color block, which reads as a generic browser highlight. This
+ * swaps it for a CRT/phosphor-terminal look instead: dark "screen"
+ * background behind the selected text plus a subtle green glow, so
+ * selecting text feels like highlighting on an old monochrome terminal
+ * rather than a plain web page.
+ */
+::selection {
+    background: #062b1a;
+    color: #4dff9f;
+    text-shadow: 0 0 6px rgba(77, 255, 159, 0.65);
+}
+
+::-moz-selection {
+    background: #062b1a;
+    color: #4dff9f;
+    text-shadow: 0 0 6px rgba(77, 255, 159, 0.65);
+}
+
+code::selection,
+code::-moz-selection {
+    background: #062b1a;
+    color: #4dff9f;
+    text-shadow: none;
+}
