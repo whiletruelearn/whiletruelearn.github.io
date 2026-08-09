@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<h1>Hello World,</h1>
+
+<p>
+I'm <b>Krishna Sangeeth</b> — a solopreneur @ <a href="https://serendipitylabs.in/">Serendipity Labs</a>.
+Before this, I worked close to 12 years in software industry. 
+</p>
+
+<ul>
+    <li>ML Lead @ Avalara — document understanding, MLOps</li>
+    <li>Senior Data Scientist @ Ericsson — forecasting, anomaly detection, root-cause analysis</li>
+    <li>ML Engineer @ Indix — large-scale hierarchical classification</li>
+    <li>Software Engineer @ TCS — mainframes & Fortran to Spark & Hadoop</li>
+</ul>
+
+<p>
+Studied: B.Tech in Computer Science @ College of Engineering Chengannur, M.Tech in Data Science @ BITS Pilani.
+</p>
+
+<p>
+Most of my work has been in NLP; with LLMs now everywhere, I'm drifting toward distributed systems and scalable infra. Language-agnostic, but Python gets things done. I think of good software as a craft worth sharpening over time.
+</p>
+
+<p>
+Happiest when learning something new, restless when I'm not. Curious about most things — history, economics, philosophy. Agnostic, and a wannabe Stoic who <a href="https://en.wikipedia.org/wiki/Stoicism">fails often</a>.
+</p>
+
+<p>
+Off-screen: happily married to Swathi, with a son, "Shanku," who keeps us on our toes.
+</p>
+
+<p>
+Say hi on <a href="https://twitter.com/whiletruelearn">Twitter</a> or via <a href="mailto:kskrishnasangeeth@gmail.com">Mail</a>.
+</p>
+
+<p>
+~ Krishna<br/>
+<small>A tiny dot in the vast അണ്ഡകടാഹം.</small>
+</p>
+
+
+<h2>~/elsewhere</h2>
+<ul class="quick-links">
+  <li><a href="{{ absURL "projects/" }}">Projects</a> — things I've built and shipped</li>
+  <li><a href="{{ absURL "essays/" }}">Essays</a> — longer-form writing</li>
+  <li><a href="{{ absURL "stories/" }}">Stories</a> — fiction &amp; narrative pieces</li>
+  <li><a href="https://www.linkedin.com/in/whiletruelearn/" target="_blank" rel="noopener noreferrer">LinkedIn</a> — work &amp; professional background</li>
+  <li><a href="https://podcasts.apple.com/ru/podcast/42/id1511330786?l=en-GB" target="_blank" rel="noopener noreferrer">Podcast</a> — 42, conversations on tech &amp; life</li>
+  {{ with .Site.Params.social.twitter }}<li><a href="https://twitter.com/{{ . }}" target="_blank" rel="noopener noreferrer">Twitter</a> — rants about life, the universe, and everything else</li>{{ end }}
+</ul>
+
+<br/>
+
+{{ end }}
