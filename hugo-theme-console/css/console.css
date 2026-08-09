@@ -412,3 +412,19 @@ code::-moz-selection {
     color: #4dff9f;
     text-shadow: none;
 }
+
+/*
+ * Quick links (homepage).
+ */
+ul.quick-links {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.quick-links li {
+    margin-bottom: 0.4em;
+}
+
+ul.quick-links a {
+    font-weight: bold;
+}
