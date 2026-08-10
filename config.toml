@@ -1,4 +1,4 @@
-baseurl = "https://whiletruelearn.github.io/"
+baseurl = "https://whiletruelearn.dev/"
 title =  "whiletruelearn"
 theme = "hugo-theme-console"
 languageCode = "en-us"
