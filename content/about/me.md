@@ -5,11 +5,11 @@ draft: true
 ---
 
 
-{{< figure src="../img/profile_pic.jpeg" height=500 width=75 alt="Krishna Sangeeth" position="center" style="border-radius: 8px;" >}}
+{{< figure src="../img/profile_pic.jpeg" height=500 width=75 alt="Krishna Sangeeth KS" position="center" style="border-radius: 8px;" >}}
 
 Hello World,
 
-Thanks for checking out my website. My name is Krishna Sangeeth, and I am currently working on my startup [Serendipity Labs](https://serendipitylabs.in/) as a solopreneur. Previously, I worked as an ML Lead at Avalara on problems related to document understanding and MLOps. Before that, I was a Senior Data Scientist in the Global AI Accelerator group at Ericsson, working on problems such as time series forecasting, anomaly detection, root cause analysis, and network data analytics.
+Thanks for checking out my website. My name is Krishna Sangeeth KS, and I am currently working on my startup [Serendipity Labs](https://serendipitylabs.in/) as a solopreneur. Previously, I worked as an ML Lead at Avalara on problems related to document understanding and MLOps. Before that, I was a Senior Data Scientist in the Global AI Accelerator group at Ericsson, working on problems such as time series forecasting, anomaly detection, root cause analysis, and network data analytics.
 Prior to Ericsson, I worked on solving the large-scale hierarchical classification problem at Indix and the data fusion problem for Nielsen. I have also had a run-in with many diverse engineering problems at TCS, ranging from legacy systems such as mainframes and Fortran to big data systems like Spark and Hadoop. 
  
 I really enjoy building software and tinkering with tech. I was specifically interested in Natural Language Processing (NLP), the subfield where I have done most of my work. Now, with the advent of LLMs, it feels like there is not much to do there. I am also interested in distributed systems and building scalable solutions. I am not a fanboy of any particular technology stack, but I do tend to use Python to get most things done. I like the idea of thinking about good software as good art, and of evolving my craft at building good software over time.
