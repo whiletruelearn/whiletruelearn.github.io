@@ -345,6 +345,22 @@ pre code {
     color: #6fd6a6;
 }
 
+/*
+ * The base theme's a:hover (terminal-0.7.1.min.css) paints a solid
+ * --primary-color block behind the link with --invert-font-color text.
+ * In dark mode this shows up as a bright, near-white-on-green flashbang
+ * against the dark page background instead of a subtle hover cue. This
+ * swaps it for a glow + underline in the same green family as the
+ * default dark-mode link color, so hover feels like an accent, not a
+ * palette swap.
+ */
+[data-theme="dark"] a:hover {
+    background-color: transparent;
+    color: #4dff9f;
+    text-decoration: underline;
+    text-shadow: 0 0 6px rgba(77, 255, 159, 0.5);
+}
+
 [data-theme="dark"] .btn-ghost {
     color: #c7c7c7;
     border-color: #888;
@@ -427,4 +443,108 @@ ul.quick-links li {
 
 ul.quick-links a {
     font-weight: bold;
+}
+
+/*
+ * Homepage fake shell session.
+ * Uses divs instead of <pre> so text wraps naturally on narrow screens
+ * (no fixed-width columns to break, no horizontal scroll). The base
+ * theme's `pre` selector also carries its own border/background meant for
+ * code blocks, which is why this avoids <pre> for prose-like content.
+ */
+.shell-session {
+    font-family: var(--mono-font-stack);
+    font-size: 0.95em;
+    line-height: 1.7em;
+    margin: 0 0 1.5em 0;
+}
+
+.shell-session .sh-cmd {
+    color: #2a9d5c;
+    font-weight: bold;
+    margin-top: 1.4em;
+}
+
+.shell-session .sh-cmd:first-child {
+    margin-top: 0;
+}
+
+
+.shell-session .sh-out {
+    color: #666;
+    margin-top: 0.3em;
+}
+
+.shell-session .sh-out a {
+    font-weight: bold;
+    color: inherit;
+    text-decoration: underline;
+}
+
+.shell-session .sh-row {
+    margin-bottom: 0.2em;
+}
+
+.shell-session .sh-key {
+    display: inline-block;
+    min-width: 11em;
+    color: #444;
+    font-weight: bold;
+}
+
+.shell-session .sh-sep {
+    display: inline-block;
+    min-width: 12em;
+}
+
+.shell-session .sh-comment {
+    color: #999;
+}
+
+.shell-session .sh-links a {
+    margin-right: 1.2em;
+    display: inline-block;
+}
+
+.shell-session .sh-signoff {
+    margin-top: 1em;
+    color: #888;
+}
+
+[data-theme="dark"] .shell-session .sh-cmd {
+    color: #6fd6a6;
+}
+
+[data-theme="dark"] .shell-session .sh-out {
+    color: #b0b0b0;
+}
+
+[data-theme="dark"] .shell-session .sh-key {
+    color: #d0d0d0;
+}
+
+[data-theme="dark"] .shell-session .sh-comment {
+    color: #7a7a7a;
+}
+
+[data-theme="dark"] .shell-session .sh-signoff {
+    color: #8a8a8a;
+}
+
+/* Below this width, career/education rows stack instead of using fixed
+   min-width columns, since two 11-12em columns no longer fit comfortably. */
+@media only screen and (max-width: 600px) {
+    .shell-session {
+        font-size: 0.85em;
+    }
+
+    .shell-session .sh-key,
+    .shell-session .sh-sep {
+        display: block;
+        min-width: 0;
+    }
+
+    .shell-session .sh-row {
+        margin-bottom: 0.7em;
+    }
 }
