@@ -24,3 +24,24 @@
 {{ $schema | jsonify (dict "indent" "  ") | safeJS }}
 </script>
 {{- end }}
+
+<!-- JSON-LD BreadcrumbList, emitted on every non-home page -->
+{{- if not .IsHome }}
+{{- $crumbs := slice . }}
+{{- $node := . }}
+{{- range $node.Ancestors }}
+  {{- $crumbs = $crumbs | append . }}
+{{- end }}
+{{- $crumbs = $crumbs | collections.Reverse }}
+{{- $items := slice }}
+{{- $pos := 1 }}
+{{- range $crumbs }}
+  {{- $name := cond .IsHome $.Site.Title .Title }}
+  {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" $name "item" .Permalink) }}
+  {{- $pos = add $pos 1 }}
+{{- end }}
+{{- $breadcrumb := dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items }}
+<script type="application/ld+json">
+{{ $breadcrumb | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end }}
