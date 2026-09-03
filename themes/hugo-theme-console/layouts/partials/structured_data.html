@@ -29,8 +29,11 @@
 {{- if not .IsHome }}
 {{- $crumbs := slice . }}
 {{- $node := . }}
-{{- range $node.Ancestors }}
-  {{- $crumbs = $crumbs | append . }}
+{{- range seq 10 }}
+  {{- with $node.Parent }}
+    {{- $crumbs = $crumbs | append . }}
+    {{- $node = . }}
+  {{- end }}
 {{- end }}
 {{- $crumbs = $crumbs | collections.Reverse }}
 {{- $items := slice }}
