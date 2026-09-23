@@ -71,7 +71,7 @@ By the old scorecard, the first agent wins easily. But if you're measuring by th
 
 This is why I think the real goal isn't maximizing code produced. It's maximizing useful behavior while keeping the surface, `S`, as small as you can get away with.
 
-So when companies say that they are more productive than ever, are they measuring in terms of LoC, pull requests , tickets closed in an issue tracker. How useful are these metrics are going to be in the long term?
+So when companies say that they are more productive than ever, are they measuring in terms of LoC, pull requests , tickets closed in an issue tracker. How useful are these metrics going to be in the long term?
 
 # Deletion Deserves Equal Billing With Creation
 
@@ -99,7 +99,7 @@ As `C` gets faster, `S` grows faster. As `A` gets faster, it finds vulnerabiliti
 
 Both sides keep getting more capable, but the software itself keeps getting harder for the humans nominally in charge of it to actually understand.
 
-You might have recently heard of the story of `huggingface` being attacked by  `openai` models during an unconstrained capability test and the team using `glm5.2` for forensnic analysis and to contain the intrusion. Also we have today ideas like `loop engineering` , `code review agents` which makes most of what I am discussing not a very far fetched idea. Even though most state of the art model providers say that they have checks in place to prevent their platform being used for an actual cyber attack, it's easy to see that specialised models could be built for this purpose by finetuning open weight models.  
+You might have recently heard the story of `huggingface` being attacked by  `openai` models during an unconstrained capability test and the team using `glm5.2` for forensic analysis and to contain the intrusion. Also we have today ideas like `loop engineering` , `code review agents` which makes most of what I am discussing not a very far fetched idea. Even though most state of the art model providers say that they have checks in place to prevent their platform being used for an actual cyber attack, it's easy to see that specialised models could be built for this purpose by finetuning open weight models.  
 
 # The Number Nobody's Tracking: Code vs Human Understanding
 

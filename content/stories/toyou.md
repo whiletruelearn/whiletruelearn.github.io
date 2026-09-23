@@ -50,7 +50,7 @@ I am off to bed. You can stay here  along with your comet.
  
 Don't bother coming down."
  
-Angry women always likes to have the final say in scheme of things. Knowing this ,I kept quiet.
+Angry women always like to have the final say in the scheme of things. Knowing this ,I kept quiet.
  
 She would have looked at me once again , violently stroked her legs at the firm ground twice or thrice and moved her head both ways to show her dislike at the turn of events. I also imagined her going down the stairs calling me idiot  and other names from her list of parliamentary swear words. This made me laugh, thinking how much I know about her.
  
@@ -89,7 +89,7 @@ The April Fools day had more surprises in store for me .I was positive though si
  
 "Sorry Rahul.I was hoping for a better result."
  
-"It is okay Doc. The funny thing is Iam turning 28 in another 3 days. So much  future ahead of me I had thought once , so much of youth left in me right ? ; All those dreams I had , they mean nothing anymore . How could such a thing happen to me Doc ? I mean I never drank , never smoked , excercised regularly and took good care of my health. How could god , if such a person ever exist do something like this to me ? especially now when everything else have turned alright ." 
+"It is okay Doc. The funny thing is Iam turning 28 in another 3 days. So much  future ahead of me I had thought once , so much of youth left in me right ? ; All those dreams I had , they mean nothing anymore . How could such a thing happen to me Doc ? I mean I never drank , never smoked , exercised regularly and took good care of my health. How could god , if such a person ever exist do something like this to me ? especially now when everything else have turned alright ." 
  
 I was about to cry like how I used to do when I felt lonely in my orphanage. But somehow I managed to stay strong.
  
@@ -144,12 +144,12 @@ I was angry at first for someone having the courage to send  such a letter . The
  
 I met Rahul on a coffee shop and I asked him what the meaning of all this was and why he played so poorly  from the 2nd game.
  
-"I have seen you many times before Neha. I used to live in the orpahanage next to your block .I know so much about you already. For instance I know at what time you catch your bus to college ,I know when you return back from college .I know that you like color blue alot since almost all your dress have a shade of blue .I know that you like golgappa since you have it everyday from the street vendor .I have even had golgappas with you few times but you have never noticed. I know you love your dad by the way you talk to him while jogging and how you put your arms around his shoulder while returning . I know that you really don't like going to temple but your mom forces you to and you would do it because it makes her happy. You see Neha, I have started going to temple just so that I could see you on those fridays. I have loved you and your family so much even after staying so distant from all of you. Please don't think of me as this weirdo for stalking you even if maybe I am."
+"I have seen you many times before Neha. I used to live in the orphanage next to your block .I know so much about you already. For instance I know at what time you catch your bus to college ,I know when you return back from college .I know that you like color blue a lot since almost all your dress have a shade of blue .I know that you like golgappa since you have it everyday from the street vendor .I have even had golgappas with you a few times but you have never noticed. I know you love your dad by the way you talk to him while jogging and how you put your arms around his shoulder while returning . I know that you really don't like going to temple but your mom forces you to and you would do it because it makes her happy. You see Neha, I have started going to temple just so that I could see you on those fridays. I have loved you and your family so much even after staying so distant from all of you. Please don't think of me as this weirdo for stalking you even if maybe I am."
  
  
  
 "
-So imagine what would go through the mind of Rahul , the so called 'orphan chess prodigee' .  Chess was the only thing that made an orphan like me special Neha . It means a great deal to me , but when I met you as my opponent - it was something which I never expected ,I won the first match to prove my strength .I lost the 2 remaining matches to show that I am willing to go to any level of sacrifice for your friendship. Suddenly chess was not the most important thing in my life ,I wanted to see you happy ,I wanted to see you win which is why I made those errors. "
+So imagine what would go through the mind of Rahul , the so called 'orphan chess prodigy' .  Chess was the only thing that made an orphan like me special Neha . It means a great deal to me , but when I met you as my opponent - it was something which I never expected ,I won the first match to prove my strength .I lost the 2 remaining matches to show that I am willing to go to any level of sacrifice for your friendship. Suddenly chess was not the most important thing in my life ,I wanted to see you happy ,I wanted to see you win which is why I made those errors. "
  
  
 When I looked into Rahul's eyes that day I saw a sincere , earnest and innocent man whom you instantly know you could trust for life. We became good friends from that moment . We had many things in common and yet many things that were different. We agreed on many things fought on many other . At some point I felt that there is something more than a friendship and to my parent's huge disappointment I married Rahul and became his 'queen'.
@@ -171,7 +171,7 @@ It was the beginning of what I would call reasonable happy days .I could still s
  
  
 It must be also said that we never took anything for granted. We really felt like evey new day with Pradyot was a gift from
-the heavens. We laughed a little extra for his acts, we applauded a little more . We were determined not to make him feel like he is missing his father , I tried to be the best grandfather any kid can possibly have and all three of us tried our best to fill the vaccum which Rahul had left. 
+the heavens. We laughed a little extra for his acts, we applauded a little more . We were determined not to make him feel like he is missing his father , I tried to be the best grandfather any kid can possibly have and all three of us tried our best to fill the vacuum which Rahul had left. 
  
  
 Years went by quickly and we all felt that bad days are past us. But like always we are just actors playing out the roles of a script return by someone. Who are we to know what twists and turns lies ahead of us. ?
@@ -179,15 +179,15 @@ Years went by quickly and we all felt that bad days are past us. But like always
 ----------------------------------------------------------------------------------------------------------------------------
  
  
-I am an agnostic . It means I don't fully agree nor disagree to the question of whether there is someone called god. Through out my life there has been various experiences which made me embrace and question faith. I think I was a very religious person until my 15th birthday,I would owe it mostly to my grandmother and grandfather. In a short span of 15 years ,I think they managed to make me visit almost all the temples one can visit in south India .I soon understood that it was more fear than anything else that made my family this relegious. They feared that something will happen to me just like my father and they believed that only gods had the power to alter future.
+I am an agnostic . It means I don't fully agree nor disagree to the question of whether there is someone called god. Throughout my life there has been various experiences which made me embrace and question faith. I think I was a very religious person until my 15th birthday,I would owe it mostly to my grandmother and grandfather. In a short span of 15 years ,I think they managed to make me visit almost all the temples one can visit in south India .I soon understood that it was more fear than anything else that made my family this religious. They feared that something will happen to me just like my father and they believed that only gods had the power to alter the future.
  
-Like I mentioned before , the fist incident that made me question faith happened on my 15th birthday. My beloved grandmother who loved me so much died on that very day. She was trying to cross the road when a lorry came from nowhere and hit her. She had gone to a temple to do a special pooja for me and was returning back home. 
+Like I mentioned before , the first incident that made me question faith happened on my 15th birthday. My beloved grandmother who loved me so much died on that very day. She was trying to cross the road when a lorry came from nowhere and hit her. She had gone to a temple to do a special pooja for me and was returning back home. 
  
-I cursed all the gods whom I worshiped that day and sweared never to bow down my head anymore to them. They took my father away before I was born and they now took my grandmother away from me when she had gone to temple only to pray for my good health and that too on my birthday.I never celebrated my birthday afterwards . The death of grandma worsened things for grandpa . 
+I cursed all the gods whom I worshiped that day and swore never to bow down my head anymore to them. They took my father away before I was born and they now took my grandmother away from me when she had gone to temple only to pray for my good health and that too on my birthday.I never celebrated my birthday afterwards . The death of grandma worsened things for grandpa . 
 He was never the same guy again, the tragedy was more than what he could bear. But surprisingly my mother endured through this , she was the person who held our family together through the tough times. 
  
 We lost grandpa 7 years later. His health had declined through these 7 years and death was the eventual course of action that 
-all of us knew was bound to happen. The day in which he died will be remembered by many Indians . It was the 2nd of April 2011 -the day Indian cricket team won the world cup.I used to feel like tragedy striked our family in a cold and ruthless manner, on days when everyone else gets to celebrate - we get to cry. At 1 am in a hospital room ,I relized that my family had shrunked to just 2 members - me and my mother.I cried on the lap of my mother . Not a drop of tear came from her eyes through all of it.
+all of us knew was bound to happen. The day in which he died will be remembered by many Indians . It was the 2nd of April 2011 -the day Indian cricket team won the world cup.I used to feel like tragedy struck our family in a cold and ruthless manner, on days when everyone else gets to celebrate - we get to cry. At 1 am in a hospital room ,I realized that my family had shrunk to just 2 members - me and my mother.I cried on the lap of my mother . Not a drop of tear came from her eyes through all of it.
  
  
  
@@ -195,7 +195,7 @@ all of us knew was bound to happen. The day in which he died will be remembered 
 ------------------------------------------------------------------------------------------------------------------------------
  
 It was April 2nd 2029 whenI finally got the test results . The first person I informed the news was his mother . 
-She was the most resillient women I have ever seen, a woman of incredible courage and strong will power .I took a day off from office and went to meet her. She was running an orphanage in memory of her husband , it was her life's work . After Pradyot married me , she moved to the orphanage and has been busy on its working. 
+She was the most resilient woman I have ever seen, a woman of incredible courage and strong will power .I took a day off from office and went to meet her. She was running an orphanage in memory of her husband , it was her life's work . After Pradyot married me , she moved to the orphanage and has been busy with its working. 
  
 She used to visit us on saturdays , spend a day with our two children and then leave on Sunday. When I told her about the test results she broke down for the first time. This repetition of tragedy over the course of time was simply unbearable for her. She held my hands tightly and said with moist eyes.
  
@@ -211,7 +211,7 @@ My grand children .....needs their father .....I need my son .
 You should do everything..... in your power to save him"
  
  
-My marriage with Pradyot was strictly an arranged one. We didn't even knew each other properly .I was studying in HMS when the proposal came in through a family friend. He was also in Boston running his start up  at that time. It was after 1 year into our marriage that I realized that our marriage was not merely a coincident. It was a  plan envisioned by Pradyot's mother to save her son if something goes wrong.
+My marriage with Pradyot was strictly an arranged one. We didn't even know each other properly .I was studying in HMS when the proposal came in through a family friend. He was also in Boston running his start up  at that time. It was after 1 year into our marriage that I realized that our marriage was not merely a coincidence. It was a  plan envisioned by Pradyot's mother to save her son if something goes wrong.
  
  
 My research at HMS was on 'Possible cures for Cancer' ,I was working with the leading experts on the topic at possibly the best  lab in the entire world dedicated to cancer research. It still remains a mystery to me how she managed to find me and how she executed the entire marriage thing. Perhaps the love of a mother for her child is the strongest force on earth , one that can even set in motion events that triggers miracles.
@@ -249,7 +249,7 @@ There is one other thing which happened somewhat later (circa 2045) , a small ev
  
 When I came downstairs you were fast asleep. I know that you are angry at me for what I said tonight.Iam really sorry if I hurt you somehow. I know that I have been acting somewhat weirdly for about a month now. I promise you that things won't be the same going forward.
  
-Do you know the old myth about comets ? They say that whatever wish we make it an honest heart while seeing a comet comes true. When I saw that Halley's comet today ,I was thinking all about us.I wished with all my heart that we are together forever and no force ever seperates us. That was my wish dear . 
+Do you know the old myth about comets ? They say that whatever wish we make with an honest heart while seeing a comet comes true. When I saw that Halley's comet today ,I was thinking all about us.I wished with all my heart that we are together forever and no force ever separates us. That was my wish dear . 
  
 And I hope that this wish will come true.
  

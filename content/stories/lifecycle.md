@@ -5,20 +5,20 @@ draft: false
 ---
 
 
-So this is a story that I wrote while in college. I had this idea in my head of creating a short film of sorts and the story kind of became a bit like screenplay. Anyways this got published in the college magazine and my dear editor/ director friend Anuraj did promise me that he will convert this story to a short film one day. I am still waiting for that day :-D 
+So this is a story that I wrote while in college. I had this idea in my head of creating a short film of sorts and the story kind of became a bit like a screenplay. Anyways this got published in the college magazine and my dear editor/ director friend Anuraj did promise me that he will convert this story to a short film one day. I am still waiting for that day :-D 
 
 
 # Friday
 
 It was just like any other day for Keerthi. She is used to this
-drill for the last two years of her life. Her day starts at 6 in the morning, with waking up from the heavy arms of her husband. She has pile of things to do early morning from cleaning the leftover dishes to preparing breakfast. She does everything diligently with a sense of calmness that comes from experience of same routine for last 2 years,people who lived near their appartment envied her life. At age 24 she seems to have everything, a well earning husband , a 3 BHK appartment,
-job as teacher at a nearby reputed school, a face that draws attention wherever she goes. In a world where marriage is a matter of convenience,the couple seemed to still have the spark within them.
+drill for the last two years of her life. Her day starts at 6 in the morning, with waking up from the heavy arms of her husband. She has a pile of things to do early morning from cleaning the leftover dishes to preparing breakfast. She does everything diligently with a sense of calmness that comes from the experience of the same routine for the last 2 years, people who lived near their apartment envied her life. At age 24 she seems to have everything, a well earning husband , a 3 BHK apartment,
+job as a teacher at a nearby reputed school, a face that draws attention wherever she goes. In a world where marriage is a matter of convenience, the couple seemed to still have the spark within them.
 
-By 8 am Keerthi and her husband start having their breakfast, in 30 minutes we can see both of them getting into their CAR which was bought just last week. By 8:50 Keerthi reaches school and her husband kisses on her forehead and bids goodbye. 'A perfect life', colleagues of Keerthi made that remark often with a touch of jealousy. Keerthi takes classes for 5th standard students. The only thing outsiders saw as missing in her life was a child of her own. keerthi somehow didn't felt so, she genuinely loved students as her own children. She is a complete natural at teaching, one of those exceptions in her school who
+By 8 am Keerthi and her husband start having their breakfast, in 30 minutes we can see both of them getting into their CAR which was bought just last week. By 8:50 Keerthi reaches school and her husband kisses her forehead and bids goodbye. 'A perfect life', colleagues of Keerthi made that remark often with a touch of jealousy. Keerthi takes classes for 5th standard students. The only thing outsiders saw as missing in her life was a child of her own. Keerthi somehow didn't feel so, she genuinely loved students as her own children. She is a complete natural at teaching, one of those exceptions in her school who
 inspite of being the 'best outgoing student' opted against other
 professional courses which had attractive salary offers. Teaching, as she always used to say was her cup of tea, and students loved her for her wits and method of teaching.
 
-On the 3rd hour of Morning session at 5 B, while giving students a problem to solve she noticed something. She saw one of her students stealing something, rakesh had thought that no one had seen his action of stealing the box. When the bell rang, Keerthi went to rakesh and asked him to come to staff room with her. rakesh still didn't think that, his teacher saw what he did. He loved that box, couldn't resist and took it.
+On the 3rd hour of Morning session at 5 B, while giving students a problem to solve she noticed something. She saw one of her students stealing something, rakesh had thought that no one had seen his action of stealing the box. When the bell rang, Keerthi went to rakesh and asked him to come to the staff room with her. rakesh still didn't think that his teacher saw what he did. He loved that box, couldn't resist and took it.
 
 "Rakesh, I saw you taking that Box"
 
@@ -44,8 +44,8 @@ On the 3rd hour of Morning session at 5 B, while giving students a problem to so
 
 "Stay a little longer darling. It's Saturday na, hiran would be having some meeting in office now... Stay a little longer" , 
 
-Shyam's voice sounded too irresistable for her. His eyes spoke lot more and she really felt the urge to stay. She moved her face towards him as if to plant a kiss and gently moved away teasing
-him. He seized control over hands and whispered in her ears
+Shyam's voice sounded too irresistible for her. His eyes spoke a lot more and she really felt the urge to stay. She moved her face towards him as if to plant a kiss and gently moved away teasing
+him. He seized control of her hands and whispered in her ears
 
 "Not again.. You are too cruel dear"
 
@@ -54,7 +54,6 @@ him. He seized control over hands and whispered in her ears
 "Oh god.. One week feels like one year for me", Shyam said still holding her hand.
 
 "Next week when i leave , i will make sure you don't complain Shyam", with that she manages to get her hands off his grip.
-
 "I will have a gift for you when we see next week",Shyam said.
 
 "What will that be? I don't want any of those expensive diamonds like last time, what's the use Shyam. I won't be able to wear them anyways. hiran would ask questions..."
@@ -63,16 +62,16 @@ him. He seized control over hands and whispered in her ears
 
 "You should present me the same gift soon.. I am waiting for it", Shyam reminded her.
 
-"Yes dear.. I will , I don't want to hurt hiran now. I shall tell him after his official trip", a tear fell from her eyes as she said this.Shyam saw her walking away from his house, he stood there in the balcony watching her take an auto to her home. 
+"Yes dear.. I will , I don't want to hurt hiran now. I shall tell him after his official trip", a tear fell from her eyes as she said this. Shyam saw her walking away from his house, he stood there in the balcony watching her take an auto to her home. 
 
-Images from his past flashed before his eyes. How he first proposed her while he was in 10th, How her father beated him heavily for sneaking into her room, how she smiled that day when she accepted his love, how the poor rich divide made him an ineligible suitor for her, how he watched her getting married to someone else, how determination and hardwork has made him one of the richest man in city, how he commited the mistake of marrying a girl who never understood him, how he met her again in the vastness of this city.Images from the past flickered through his mind.
+Images from his past flashed before his eyes. How he first proposed to her while he was in 10th, how her father beat him heavily for sneaking into her room, how she smiled that day when she accepted his love, how the poor rich divide made him an ineligible suitor for her, how he watched her getting married to someone else, how determination and hard work made him one of the richest men in the city, how he committed the mistake of marrying a girl who never understood him, how he met her again in the vastness of this city. Images from the past flickered through his mind.
 
-"They thought i will loose her forever once she got married.I never lost her, She loved only me .. all her life, i was her love " , he said to himself.
+"They thought i will lose her forever once she got married. I never lost her, She loved only me .. all her life, i was her love " , he said to himself.
 
-She looks at her watch as she reaches home. hiran would be home soon and she knows it.She plans to make him some payasam, it is his birthday today.He was too busy early morning and was not able to visit the nearby temple like they used to. At 5.10 Door bell rang and hiran comes in swinging his briefcase, he accidently misplaces a framed photo while placing the briefcase. The frame which was made of glass broke into pieces as it fell down.
+She looks at her watch as she reaches home. hiran would be home soon and she knows it. She plans to make him some payasam, it is his birthday today. He was too busy early morning and was not able to visit the nearby temple like they used to. At 5.10 the doorbell rang and hiran comes in swinging his briefcase, he accidentally misplaces a framed photo while placing the briefcase. The frame which was made of glass broke into pieces as it fell down.
 
 
-She was holding in a glass the freshly prepared Payasam when he said those words.
+She was holding a glass of freshly prepared Payasam when he said those words.
 
 "Darling, our wedding photo fell down. I will fix the frame , so sorry about that.. I will fix it right away"
 
@@ -80,14 +79,14 @@ She felt her hands becoming sweaty, and for a moment she thought that she will d
 
 " Don't hurt yourself.... dear , the.... frame.... is made of ...glass "
 
-hiran looks at the photo once again and saw his wife and himself trying to smile at photographer's wish to the background of a large cutout card which reads 'hiran weds Keerthi'.
+hiran looks at the photo once again and sees his wife and himself trying to smile at the photographer's wish against the background of a large cutout card which reads 'hiran weds Keerthi'.
 
 # Sunday
 
-It was a bright sunday morning. While Jogging at DH park , hiran looks up into the sky and says to himself 'Today is going to be a good day' . It was clear blue sky all around, clouds seem to have gone for a vacation.His last two sunday's were spoiled because of rain. He had planned to go out with keerthi on those days, but rain had other plans. He calls keerthi immediately and tells her that they will go out today.
+It was a bright Sunday morning. While Jogging at DH park , hiran looks up into the sky and says to himself 'Today is going to be a good day' . It was clear blue sky all around, clouds seem to have gone for a vacation. His last two Sundays were spoiled because of rain. He had planned to go out with keerthi on those days, but rain had other plans. He calls keerthi immediately and tells her that they will go out today.
 
-When hiran reached home , keerthi was all dresssed up in a beautiful green saree. She truly looked flawless. 'Age can't wither her infinite beauty.......' , hiran learned literature in college, he couldn't help thinking about shakespeare's account on Cleopatra. Keerthi was his cleopatra, the girl of his dreams. hiran did most of the things right in his life. After completing degree in literature, he set his eyes on civil service
-which he cleared successfully on second attempt. Choosing IAS as his career option was a right choice, saying 'yes' to a shy 22 year old girl was an even better choice. From the moment he first laid eyes on her on that awkward ceremony of 'girl meets boy with a cup of tea', he hasn't stopped loving her. At times he wondered whether his life was surreal. He had everything he thought - Money , power in form as the sub collector of his own district, and more importantly a beautiful wife who makes every
+When hiran reached home , keerthi was all dressed up in a beautiful green saree. She truly looked flawless. 'Age can't wither her infinite beauty.......' , hiran learned literature in college, he couldn't help thinking about shakespeare's account of Cleopatra. Keerthi was his cleopatra, the girl of his dreams. hiran did most of the things right in his life. After completing his degree in literature, he set his eyes on civil service
+which he cleared successfully on his second attempt. Choosing IAS as his career option was the right choice, saying 'yes' to a shy 22 year old girl was an even better choice. From the moment he first laid eyes on her at that awkward ceremony of 'girl meets boy with a cup of tea', he hasn't stopped loving her. At times he wondered whether his life was surreal. He had everything he thought - Money , power in the form of sub collector of his own district, and more importantly a beautiful wife who makes every
 day of his life magical.
 
 "Let's go to temple. We couldn't go yesterday for your birthday", said keerthi
@@ -96,8 +95,8 @@ hiran looked at her again, 'how lucky i am to have her' ,he thought and gave a w
 
 "I will freshen up and come quickly."
 
-When hiran came back, he had a visitor in like a man who is past
-front of his house. He seemed his sixties.
+When hiran came back, he had a visitor, a man who was standing in
+front of his house. He seemed to be in his sixties.
 
 "5 minutes ", hiran said to keerthi and asked the man to come to his private study room.
 
@@ -117,7 +116,7 @@ I have a flight to catch ", said the old man.
 
 "Sir, i would like to have the briefcase back.. It's been kind of lucky for me"
 
-"Oh sure.. Why not", he carefully removed those bundles of notes one by one and placed at his table.As soon as the old man left the room, hiran started putting the money into his secret vault . 
+"Oh sure.. Why not", he carefully removed those bundles of notes one by one and placed them on his table. As soon as the old man left the room, hiran started putting the money into his secret vault . 
 
 'As i guessed, today is indeed a great day' , he thought. He thought of all the things he could buy with 25 lakhs. He was planning on some heavy purchases and finally it seems like the right time.
 
@@ -128,29 +127,29 @@ As he reached the hall , he saw some unexpected people. Few men were doing round
 "Sir, I am Nagesh from Vigilance Department, We have received a
 complaint from the owner of JK constructions... "
 
-Hiran felt for a moment that he is going to be unconscious. He couldn't listen to the entire speech of the officer. He only heard bits and pieces of what Nagesh said.
+Hiran felt for a moment that he was going to be unconscious. He couldn't listen to the entire speech of the officer. He only heard bits and pieces of what Nagesh said.
 
 "... We need to examine your hands to see if there are any traces of chemical in your hand"
 
 ".... We need to check your study room... Here is the warrant "
 hiran knew what had happened. 
 
-He has just fallen in trap of one of the con games of Vigilance Department. They would have put some chemical in the currency notes and having moved them from briefcase, traces of those chemicals would be in his hand too. He had been caught red handed. It was starting to feel like a perfect day, how quickly everything had changed. A suspension , time in prison - future doesn't look bright as it seemed 10 minutes back.
+He has just fallen into the trap of one of the con games of the Vigilance Department. They would have put some chemical in the currency notes and having moved them from the briefcase, traces of those chemicals would be in his hand too. He had been caught red handed. It was starting to feel like a perfect day, how quickly everything had changed. A suspension , time in prison - the future doesn't look as bright as it seemed 10 minutes ago.
 
 hiran cursed himself and that moment when he decided to take that
-money. He was a honest person when he started out his career, but peer pressure and need for money made him corrupt just like everyone else.Every single officer he knows is corrupt, but none of it is gonna matter now, they weren't caught for their action , he will be.
+money. He was an honest person when he started out his career, but peer pressure and need for money made him corrupt just like everyone else. Every single officer he knows is corrupt, but none of it is gonna matter now, they weren't caught for their action , he will be.
 
 'My life is over', hiran said to himself.
 
-Tears rolled down his eyes as officers put handcuffs. People who had saluted him before has a funny grin in their face now, the only thing he could do was bend his head down. He couldn't face Keerthi, he felt pain beyond describing – all his life's work is gonna shatter now.Keerthi was speechless at the turn of events, she stood there motionless.
+Tears rolled down his eyes as officers put on handcuffs. People who had saluted him before had a funny grin on their faces now, the only thing he could do was bend his head down. He couldn't face Keerthi, he felt pain beyond describing – all his life's work was going to shatter now. Keerthi was speechless at the turn of events, she stood there motionless.
 
-When hiran was taken away in a vehicle, a drop of tear fell from her eye.She couldn't believe that her husband was a corrupt officer. She wiped tears from her face and dials her phone.
+When hiran was taken away in a vehicle, a drop of tear fell from her eye. She couldn't believe that her husband was a corrupt officer. She wiped tears from her face and dials her phone.
 
 "Shyam[pause], Don't worry about divorce. It's going to be easy now"
 
 # Monday
 
-When vigilance officer Nagesh reached his home , it was 6 am in the morning. Arresting the sub collector was no small thing, he had answers to give to his various heads in department. He was so tired when he came back home.
+When vigilance officer Nagesh reached his home , it was 6 am in the morning. Arresting the sub collector was no small thing, he had answers to give to his various heads in the department. He was so tired when he came back home.
 
 "Nagesh, you look really tired .. Get some sleep", his wife said.
 
@@ -167,7 +166,7 @@ vehicle.
 
 "rakesh, don't you have a test today.. Go and learn it. I will be coming to ask you questions", mom said saving Nagesh from a tight corner.
 
-"Nagesh , why do you keep lying to our son?. Just buy him that box, you know what he did.. he tried to steal a similar box from his friend this friday.. His teacher called me to discuss about it... i was really embarassed"
+"Nagesh , why do you keep lying to our son?. Just buy him that box, you know what he did.. he tried to steal a similar box from his friend this friday.. His teacher called me to discuss about it... i was really embarrassed"
 
 "I am sorry hon, i was too busy over this week and kept forgetting about it.. I will buy it today itself.. By the way, what test he is having today ?"
 
